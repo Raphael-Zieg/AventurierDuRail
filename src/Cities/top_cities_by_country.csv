@@ -1,0 +1,1544 @@
+city,lat,lng,population,Country,continent
+Kabul,34.5253,69.1783,4273156.0,Afghanistan,Asia
+Kandahar,31.62,65.7158,614254.0,Afghanistan,Asia
+Herat,34.3419,62.2031,556205.0,Afghanistan,Asia
+Farah,32.3436,62.1194,500000.0,Afghanistan,Asia
+Mazar-e Sharif,36.7,67.1167,469247.0,Afghanistan,Asia
+Lashkar Gah,31.5831,64.3692,276831.0,Afghanistan,Asia
+Kunduz,36.7286,68.8681,268893.0,Afghanistan,Asia
+Taluqan,36.7167,69.5167,263800.0,Afghanistan,Asia
+Jalalabad,34.4342,70.4478,263312.0,Afghanistan,Asia
+Shibirghan,36.665,65.752,175599.0,Afghanistan,Asia
+Zaranj,30.96,61.86,160902.0,Afghanistan,Asia
+Khost,33.3331,69.9169,160214.0,Afghanistan,Asia
+Maimanah,35.9333,64.75,149040.0,Afghanistan,Asia
+Mehtar Lam,34.6683,70.2089,144162.0,Afghanistan,Asia
+Ghazni,33.5492,68.4233,143379.0,Afghanistan,Asia
+Tirana,41.3289,19.8178,418495.0,Albania,Europe
+Vlore,40.4667,19.4833,130827.0,Albania,Europe
+Kamez,41.3833,19.7667,126777.0,Albania,Europe
+Fier,40.725,19.5572,120655.0,Albania,Europe
+Durres,41.3111,19.4392,113249.0,Albania,Europe
+Shkoder,42.0681,19.5119,112276.0,Albania,Europe
+Algiers,36.7539,3.0589,3415811.0,Algeria,Africa
+Oran,35.6969,-0.6331,852000.0,Algeria,Africa
+Constantine,36.365,6.6147,448374.0,Algeria,Africa
+Blida,36.4722,2.8333,331779.0,Algeria,Africa
+Batna,35.55,6.1667,290645.0,Algeria,Africa
+Setif,36.19,5.41,288461.0,Algeria,Africa
+Djelfa,34.6667,3.25,265833.0,Algeria,Africa
+Annaba,36.9,7.7667,257359.0,Algeria,Africa
+Sidi Bel Abbes,35.2,-0.6333,212935.0,Algeria,Africa
+Biskra,34.85,5.7333,204661.0,Algeria,Africa
+Tebessa,35.4,8.1167,194461.0,Algeria,Africa
+Tiaret,35.3667,1.3167,178915.0,Algeria,Africa
+Bejaia,36.7511,5.0642,176139.0,Algeria,Africa
+Tlemcen,34.8828,-1.3167,173531.0,Algeria,Africa
+Bordj Bou Arreridj,36.0667,4.7667,168346.0,Algeria,Africa
+Luanda,-8.8383,13.2344,9051000.0,Angola,Africa
+Cacuaco,-8.8053,13.2444,1279488.0,Angola,Africa
+Lubango,-14.9167,13.5,776249.0,Angola,Africa
+Cabinda,-5.56,12.19,739182.0,Angola,Africa
+Huambo,-12.7767,15.7347,665564.0,Angola,Africa
+Malanje,-9.5333,16.35,604215.0,Angola,Africa
+Benguela,-12.55,13.4167,561775.0,Angola,Africa
+Talatona,-8.9167,13.1833,500000.0,Angola,Africa
+Belas,-8.9983,13.265,500000.0,Angola,Africa
+Lobito,-12.3597,13.5308,393079.0,Angola,Africa
+Saurimo,-9.65,20.4,393000.0,Angola,Africa
+Cubal,-13.1117,14.3672,357618.0,Angola,Africa
+Luena,-11.7918,19.9062,357413.0,Angola,Africa
+Cuito,-12.3833,16.9333,355423.0,Angola,Africa
+Uige,-7.6167,15.05,322531.0,Angola,Africa
+Buenos Aires,-34.5997,-58.3819,16710000.0,Argentina,South America
+Cordoba,-31.4167,-64.1833,1565112.0,Argentina,South America
+Rosario,-32.9575,-60.6394,1276000.0,Argentina,South America
+Santiago del Estero,-27.7833,-64.2667,911506.0,Argentina,South America
+Comodoro Rivadavia,-45.8647,-67.4808,730266.0,Argentina,South America
+Mar del Plata,-38.0,-57.55,682605.0,Argentina,South America
+San Miguel de Tucuman,-26.8167,-65.2167,605767.0,Argentina,South America
+Salta,-24.7833,-65.4167,535303.0,Argentina,South America
+San Juan,-31.5342,-68.5261,471389.0,Argentina,South America
+Lanus,-34.7,-58.4,459263.0,Argentina,South America
+Florencio Varela,-34.8167,-58.2833,426005.0,Argentina,South America
+Santa Fe,-31.6333,-60.7,405683.0,Argentina,South America
+Corrientes,-27.4833,-58.8167,352646.0,Argentina,South America
+San Salvador de Jujuy,-24.1833,-65.3,321789.0,Argentina,South America
+Bahia Blanca,-38.7167,-62.2667,301572.0,Argentina,South America
+Yerevan,40.1814,44.5144,1075800.0,Armenia,Asia
+Gyumri,40.7894,43.8475,121976.0,Armenia,Asia
+Sydney,-33.8678,151.21,4840600.0,Australia,Oceania
+Melbourne,-37.8142,144.9631,4529500.0,Australia,Oceania
+Brisbane,-27.4678,153.0281,2360241.0,Australia,Oceania
+Perth,-31.9559,115.8606,2141834.0,Australia,Oceania
+Adelaide,-34.9275,138.6,1295714.0,Australia,Oceania
+Gold Coast,-28.0167,153.4,638090.0,Australia,Oceania
+Cranbourne,-38.0996,145.2834,460491.0,Australia,Oceania
+Canberra,-35.2931,149.1269,381488.0,Australia,Oceania
+Central Coast,-33.3,151.2,346596.0,Australia,Oceania
+Wollongong,-34.4331,150.8831,261896.0,Australia,Oceania
+Hobart,-42.8806,147.325,222356.0,Australia,Oceania
+Geelong,-38.15,144.35,184182.0,Australia,Oceania
+Townsville,-19.25,146.8167,178649.0,Australia,Oceania
+Ipswich,-27.6167,152.7667,163000.0,Australia,Oceania
+Newcastle,-32.9167,151.75,152984.0,Australia,Oceania
+Vienna,48.2083,16.3725,1973403.0,Austria,Europe
+Graz,47.0708,15.4386,289440.0,Austria,Europe
+Linz,48.3058,14.2864,210165.0,Austria,Europe
+Salzburg,47.8,13.045,155021.0,Austria,Europe
+Innsbruck,47.2683,11.3933,132493.0,Austria,Europe
+Klagenfurt,46.6167,14.3,101403.0,Austria,Europe
+Baku,40.3667,49.8352,2300500.0,Azerbaijan,Asia
+Sumqayit,40.5917,49.6397,341200.0,Azerbaijan,Asia
+Ganca,40.6828,46.3606,331400.0,Azerbaijan,Asia
+Agcabadi,40.0528,47.4614,136000.0,Azerbaijan,Asia
+Mingacevir,40.77,47.0489,106100.0,Azerbaijan,Asia
+Xirdalan,40.4486,49.7564,100900.0,Azerbaijan,Asia
+Nassau,25.0781,-77.3386,274400.0,Bahamas,North America
+Manama,26.225,50.5775,436000.0,Bahrain,Asia
+Dhaka,23.7639,90.3889,18627000.0,Bangladesh,Asia
+Chattogram,22.335,91.8325,7000000.0,Bangladesh,Asia
+Narayanganj,23.62,90.5,1572386.0,Bangladesh,Asia
+Khulna,22.8167,89.55,1400689.0,Bangladesh,Asia
+Gazipura,23.9889,90.375,1199215.0,Bangladesh,Asia
+Rangapukur,25.56,89.25,1031388.0,Bangladesh,Asia
+Rajshahi,24.3667,88.6,763580.0,Bangladesh,Asia
+Mymensingh,24.7539,90.4031,576722.0,Bangladesh,Asia
+Faridpur,23.602,89.833,557632.0,Bangladesh,Asia
+Sylhet,24.9,91.8667,479837.0,Bangladesh,Asia
+Barura,23.375,91.0583,473590.0,Bangladesh,Asia
+Chauddagram,23.2283,91.3133,443648.0,Bangladesh,Asia
+Kushtia,23.9101,89.1231,418312.0,Bangladesh,Asia
+Bogra,24.85,89.3667,400983.0,Bangladesh,Asia
+Tangail,24.2644,89.9181,392300.0,Bangladesh,Asia
+Bridgetown,13.0975,-59.6167,110000.0,Barbados,North America
+Minsk,53.9,27.5667,2009786.0,Belarus,Europe
+Homyel',52.4453,30.9842,510300.0,Belarus,Europe
+Vitsyebsk,55.1917,30.2056,366299.0,Belarus,Europe
+Hrodna,53.6667,23.8333,357493.0,Belarus,Europe
+Mahilyow,53.9167,30.35,357100.0,Belarus,Europe
+Brest,52.1347,23.6569,340723.0,Belarus,Europe
+Babruysk,53.15,29.2333,212200.0,Belarus,Europe
+Baranavichy,53.1333,26.0167,174183.0,Belarus,Europe
+Horad Barysaw,54.2279,28.505,155389.0,Belarus,Europe
+Pinsk,52.1153,26.1031,125900.0,Belarus,Europe
+Orsha,54.5092,30.4258,117225.0,Belarus,Europe
+Navapolatsk,55.5333,28.65,108000.0,Belarus,Europe
+Salihorsk,52.8,27.5333,106627.0,Belarus,Europe
+Mazyr,52.05,29.2667,105439.0,Belarus,Europe
+Lida,53.8833,25.3,103479.0,Belarus,Europe
+Brussels,50.8467,4.3525,1743000.0,Belgium,Europe
+Antwerp,51.2178,4.4003,529247.0,Belgium,Europe
+Gent,51.0536,3.7253,265086.0,Belgium,Europe
+Charleroi,50.4,4.4333,201816.0,Belgium,Europe
+Liege,50.6397,5.5706,196623.0,Belgium,Europe
+Anderlecht,50.8333,4.3333,120887.0,Belgium,Europe
+Bruges,51.2089,3.2242,118509.0,Belgium,Europe
+Namur,50.4667,4.8667,110939.0,Belgium,Europe
+Leuven,50.8833,4.7,101032.0,Belgium,Europe
+Cotonou,6.3667,2.4333,762000.0,Benin,Africa
+Abomey-Calavi,6.4486,2.3556,655965.0,Benin,Africa
+Porto-Novo,6.4972,2.605,300000.0,Benin,Africa
+Godome,6.3667,2.35,253262.0,Benin,Africa
+Banikoara,11.3,2.4333,248621.0,Benin,Africa
+Djougou,9.7,1.6667,237040.0,Benin,Africa
+Tchaourou,8.8833,2.6,221108.0,Benin,Africa
+Parakou,9.35,2.6167,206667.0,Benin,Africa
+Kandi,11.1286,2.9369,177683.0,Benin,Africa
+Aplahoue,6.9333,1.6833,170069.0,Benin,Africa
+Kalale,10.2953,3.3786,168882.0,Benin,Africa
+Malanville,11.8667,3.3833,168006.0,Benin,Africa
+Ketou,7.3581,2.6075,156497.0,Benin,Africa
+Bohicon,7.2,2.0667,149271.0,Benin,Africa
+Djakotome,6.9,1.7167,134704.0,Benin,Africa
+Thimphu,27.4722,89.6361,104000.0,Bhutan,Asia
+Santa Cruz,-17.7892,-63.1975,3151676.0,Bolivia,South America
+La Paz,-16.5,-68.15,2867504.0,Bolivia,South America
+El Alto,-16.5047,-68.1633,943000.0,Bolivia,South America
+Cochabamba,-17.3833,-66.1667,856198.0,Bolivia,South America
+Oruro,-17.9667,-67.1167,351802.0,Bolivia,South America
+Sucre,-19.0475,-65.26,300000.0,Bolivia,South America
+Tarija,-21.5333,-64.7333,268000.0,Bolivia,South America
+Potosi,-19.5892,-65.7533,264402.0,Bolivia,South America
+Oruro,-17.9799,-67.13,246501.0,Bolivia,South America
+Warnes,-17.5167,-63.1667,214216.0,Bolivia,South America
+Sacaba,-17.4042,-66.0408,172466.0,Bolivia,South America
+Montero,-17.3422,-63.2558,137931.0,Bolivia,South America
+Quillacollo,-17.4,-66.2833,137182.0,Bolivia,South America
+Trinidad,-14.8292,-64.9014,130657.0,Bolivia,South America
+Sarajevo,43.8564,18.4131,419957.0,Bosnia and Herzegovina,Europe
+Banja Luka,44.7725,17.1925,199191.0,Bosnia and Herzegovina,Europe
+Bijeljina,44.75,19.2167,114663.0,Bosnia and Herzegovina,Europe
+Mostar,43.3436,17.8075,113169.0,Bosnia and Herzegovina,Europe
+Tuzla,44.5381,18.6761,110979.0,Bosnia and Herzegovina,Europe
+Gaborone,-24.6581,25.9122,231626.0,Botswana,Africa
+Francistown,-21.1736,27.5125,103417.0,Botswana,Africa
+Sao Paulo,-23.55,-46.6333,23086000.0,Brazil,South America
+Rio de Janeiro,-22.9111,-43.2056,12592000.0,Brazil,South America
+Belo Horizonte,-19.9167,-43.9333,5328000.0,Brazil,South America
+Brasilia,-15.7939,-47.8828,3039444.0,Brazil,South America
+Salvador,-12.9747,-38.4767,2886698.0,Brazil,South America
+Fortaleza,-3.7275,-38.5275,2452185.0,Brazil,South America
+Manaus,-3.1,-60.0167,2219580.0,Brazil,South America
+Santos,-23.9369,-46.325,1897551.0,Brazil,South America
+Curitiba,-25.4297,-49.2711,1879355.0,Brazil,South America
+Recife,-8.05,-34.9,1653461.0,Brazil,South America
+Belem,-1.4558,-48.5039,1499641.0,Brazil,South America
+Porto Alegre,-30.0331,-51.23,1484941.0,Brazil,South America
+Goiania,-16.6667,-49.25,1393575.0,Brazil,South America
+Guarulhos,-23.4628,-46.5328,1324781.0,Brazil,South America
+Campinas,-22.9058,-47.0608,1213792.0,Brazil,South America
+Sofia,42.7,23.33,1547779.0,Bulgaria,Europe
+Plovdiv,42.15,24.75,383540.0,Bulgaria,Europe
+Varna,43.2167,27.9167,348668.0,Bulgaria,Europe
+Burgas,42.503,27.4702,210813.0,Bulgaria,Europe
+Ruse,43.8231,25.9539,143931.0,Bulgaria,Europe
+Stara Zagora,42.4333,25.65,136475.0,Bulgaria,Europe
+Pleven,43.4078,24.6203,119596.0,Bulgaria,Europe
+Sliven,42.6833,26.3333,115241.0,Bulgaria,Europe
+Pazardzhik,42.2,24.3333,103681.0,Bulgaria,Europe
+Ouagadougou,12.3686,-1.5275,2453496.0,Burkina Faso,Africa
+Bobo-Dioulasso,11.1833,-4.2833,903887.0,Burkina Faso,Africa
+Koudougou,12.25,-2.3667,160207.0,Burkina Faso,Africa
+Ouahigouya,13.5833,-2.4167,124580.0,Burkina Faso,Africa
+Kaya,13.0833,-1.0833,122949.0,Burkina Faso,Africa
+Banfora,10.6308,-4.7589,117200.0,Burkina Faso,Africa
+Bujumbura,-3.3833,29.3667,1075000.0,Burundi,Africa
+Gitega,-3.4283,29.925,135467.0,Burundi,Africa
+Phnom Penh,11.5694,104.9211,2129371.0,Cambodia,Asia
+Siem Reap,13.3622,103.8597,147866.0,Cambodia,Asia
+Battambang,13.1,103.2,130000.0,Cambodia,Asia
+Kampong Cham,11.987,105.462,118242.0,Cambodia,Asia
+Douala,4.05,9.7,5768400.0,Cameroon,Africa
+Yaounde,3.8667,11.5167,2440462.0,Cameroon,Africa
+Bamenda,5.9614,10.1517,2000000.0,Cameroon,Africa
+Bafoussam,5.4667,10.4167,1146000.0,Cameroon,Africa
+Garoua,9.3,13.4,600000.0,Cameroon,Africa
+Maroua,10.5971,14.3157,319941.0,Cameroon,Africa
+Limbe,4.0167,9.2167,212474.0,Cameroon,Africa
+Ngaoundere,7.3167,13.5833,189800.0,Cameroon,Africa
+Loum,4.718,9.73,177429.0,Cameroon,Africa
+Kumba,4.6333,9.45,144268.0,Cameroon,Africa
+Bibemi,9.3167,13.8833,133191.0,Cameroon,Africa
+Buea,4.1667,9.2333,131325.0,Cameroon,Africa
+Kumbo,6.2,10.66,125486.0,Cameroon,Africa
+Edea,3.8,10.1333,122300.0,Cameroon,Africa
+Nkongsamba,4.95,9.9333,117063.0,Cameroon,Africa
+Toronto,43.7417,-79.3733,5429524.0,Canada,North America
+Montreal,45.5089,-73.5617,3519595.0,Canada,North America
+Vancouver,49.25,-123.1,2264823.0,Canada,North America
+Calgary,51.05,-114.0667,1239220.0,Canada,North America
+Edmonton,53.5344,-113.4903,1062643.0,Canada,North America
+Ottawa,45.4247,-75.695,989567.0,Canada,North America
+Mississauga,43.6,-79.65,721599.0,Canada,North America
+Winnipeg,49.8844,-97.1464,705244.0,Canada,North America
+Quebec City,46.8139,-71.2081,705103.0,Canada,North America
+Hamilton,43.2567,-79.8692,693645.0,Canada,North America
+Brampton,43.6833,-79.7667,593638.0,Canada,North America
+Surrey,49.19,-122.8489,517887.0,Canada,North America
+Kitchener,43.4186,-80.4728,470015.0,Canada,North America
+Laval,45.5833,-73.75,422993.0,Canada,North America
+Halifax,44.6475,-63.5906,403131.0,Canada,North America
+Praia,14.918,-23.509,127832.0,Cape Verde,Africa
+Bangui,4.3733,18.5628,889231.0,Central African Republic,Africa
+Bimo,4.2558,18.4042,267859.0,Central African Republic,Africa
+Mambere,5.5,15.5,233666.0,Central African Republic,Africa
+Bimbo,4.3313,18.5163,124176.0,Central African Republic,Africa
+N'Djamena,12.11,15.05,1092066.0,Chad,Africa
+Moundou,8.5667,16.0833,142462.0,Chad,Africa
+Sarh,9.15,18.3833,108061.0,Chad,Africa
+Santiago,-33.4372,-70.6506,7171000.0,Chile,South America
+Concepcion,-36.8282,-73.0514,719944.0,Chile,South America
+Puente Alto,-33.6167,-70.5667,573935.0,Chile,South America
+Maipu,-33.5167,-70.7667,521627.0,Chile,South America
+La Florida,-33.5333,-70.5833,366916.0,Chile,South America
+Antofagasta,-23.65,-70.4,348517.0,Chile,South America
+Vina del Mar,-33.0244,-71.5517,332875.0,Chile,South America
+San Bernardo,-33.5833,-70.7,301313.0,Chile,South America
+Valparaiso,-33.0461,-71.6197,296655.0,Chile,South America
+Temuco,-38.7333,-72.6667,282415.0,Chile,South America
+Las Condes,-33.4117,-70.55,249893.0,Chile,South America
+Rancagua,-34.1667,-70.75,231370.0,Chile,South America
+Penalolen,-33.4833,-70.55,216060.0,Chile,South America
+Quilicura,-33.3667,-70.7333,210410.0,Chile,South America
+Talca,-35.4269,-71.6656,206069.0,Chile,South America
+Guangzhou,23.13,113.26,26940000.0,China,Asia
+Shanghai,31.1667,121.4667,24073000.0,China,Asia
+Beijing,39.904,116.4075,18522000.0,China,Asia
+Shenzhen,22.535,114.054,17619000.0,China,Asia
+Chengdu,30.66,104.0633,14645000.0,China,Asia
+Xi'an,34.2667,108.9,12328000.0,China,Asia
+Chongqing,29.55,106.5069,12135000.0,China,Asia
+Baoding,38.8671,115.4845,11860000.0,China,Asia
+Linyi,35.1041,118.3502,11018365.0,China,Asia
+Dongguan,23.0475,113.7493,10646000.0,China,Asia
+Tianjin,39.1467,117.2056,10368000.0,China,Asia
+Wuhan,30.5872,114.2881,10251000.0,China,Asia
+Nanyang,32.9987,112.5292,10013600.0,China,Asia
+Hangzhou,30.25,120.1675,9523000.0,China,Asia
+Foshan,23.0292,113.1056,9498863.0,China,Asia
+Bogota,4.7111,-74.0722,7968095.0,Colombia,South America
+Timbio,2.3445,-76.6839,4444444.0,Colombia,South America
+Medellin,6.2308,-75.5906,2529403.0,Colombia,South America
+Cali,3.4206,-76.5222,2471474.0,Colombia,South America
+Barranquilla,10.9833,-74.8019,1326588.0,Colombia,South America
+Cartagena,10.4,-75.5,1036412.0,Colombia,South America
+Bucaramanga,7.1333,-73.0,870752.0,Colombia,South America
+Palermo,2.8917,-75.4375,800000.0,Colombia,South America
+Cucuta,7.8942,-72.5039,750000.0,Colombia,South America
+Soledad,10.9167,-74.75,698852.0,Colombia,South America
+Villavicencio,4.15,-73.6333,664148.0,Colombia,South America
+Pereira,4.8143,-75.6946,590554.0,Colombia,South America
+Valledupar,10.4833,-73.25,544134.0,Colombia,South America
+Ibague,4.4333,-75.2333,541101.0,Colombia,South America
+Soacha,4.5872,-74.2214,522442.0,Colombia,South America
+Moroni,-11.699,43.256,111329.0,Comoros,Africa
+Brazzaville,-4.2694,15.2714,1827000.0,Congo,Africa
+Pointe-Noire,-4.8,11.85,829134.0,Congo,Africa
+Tchibota,-4.1794,11.3731,262931.0,Congo,Africa
+Dolisie,-4.2,12.6667,103894.0,Congo,Africa
+San Jose,9.9325,-84.08,1543000.0,Costa Rica,North America
+San Marcos,10.6204,-84.512,163745.0,Costa Rica,North America
+Abidjan,5.3167,-4.0333,4980000.0,Cote d'Ivoire,Africa
+Yopougon,5.3167,-4.0667,1571065.0,Cote d'Ivoire,Africa
+Cocody,5.35,-3.9667,692583.0,Cote d'Ivoire,Africa
+Bouake,7.6833,-5.0167,659233.0,Cote d'Ivoire,Africa
+Port-Bouet,5.2667,-3.9,618795.0,Cote d'Ivoire,Africa
+Daloa,6.8833,-6.45,421871.0,Cote d'Ivoire,Africa
+Koumassi,5.3,-3.95,412282.0,Cote d'Ivoire,Africa
+San-Pedro,4.75,-6.6333,390654.0,Cote d'Ivoire,Africa
+Yamoussoukro,6.8161,-5.2742,355573.0,Cote d'Ivoire,Africa
+Attiecoube,5.3333,-4.0333,313135.0,Cote d'Ivoire,Africa
+Korhogo,9.4167,-5.6167,286071.0,Cote d'Ivoire,Africa
+Gagnoa,6.1333,-5.9333,277044.0,Cote d'Ivoire,Africa
+Soubre,5.7833,-6.6,272773.0,Cote d'Ivoire,Africa
+Oume,6.3833,-5.4167,260786.0,Cote d'Ivoire,Africa
+Man,7.4,-7.55,241969.0,Cote d'Ivoire,Africa
+Zagreb,45.8167,15.9833,809268.0,Croatia,Europe
+Rijeka,45.3272,14.4411,191293.0,Croatia,Europe
+Split,43.51,16.44,178102.0,Croatia,Europe
+Havana,23.1367,-82.3589,2141652.0,Cuba,North America
+Santiago de Cuba,20.0217,-75.8294,917340.0,Cuba,North America
+Holguin,20.8869,-76.2592,350191.0,Cuba,North America
+Camaguey,21.3839,-77.9075,321992.0,Cuba,North America
+Ciego de Avila,21.8481,-78.7631,278672.0,Cuba,North America
+Santa Clara,22.4069,-79.9649,247436.0,Cuba,North America
+Bayamo,20.3817,-76.6428,235107.0,Cuba,North America
+Guantanamo,20.1367,-75.2139,228436.0,Cuba,North America
+Carlos Manuel de Cespedes,21.5767,-78.2775,224488.0,Cuba,North America
+Arroyo Naranjo,23.0436,-82.3328,210053.0,Cuba,North America
+Las Tunas,20.9597,-76.9544,202105.0,Cuba,North America
+Pinar del Rio,22.4122,-83.6719,188614.0,Cuba,North America
+Cienfuegos,22.1456,-80.4364,164924.0,Cuba,North America
+Manzanillo,20.3397,-77.1086,150999.0,Cuba,North America
+Matanzas,23.0511,-81.5753,145246.0,Cuba,North America
+Willemstad,12.108,-68.935,150000.0,Curacao,North America
+Nicosia,35.1725,33.365,330000.0,Cyprus,Europe
+Limassol,34.6747,33.0442,235056.0,Cyprus,Europe
+Prague,50.0875,14.4214,1335084.0,Czechia,Europe
+Olomouc,49.5939,17.2508,384000.0,Czechia,Europe
+Brno,49.1925,16.6083,382405.0,Czechia,Europe
+Ostrava,49.8356,18.2925,284982.0,Czechia,Europe
+Plzen,49.7475,13.3775,175219.0,Czechia,Europe
+Liberec,50.7667,15.0667,104261.0,Czechia,Europe
+Kinshasa,-4.325,15.3222,12836000.0,Democratic Republic of Congo,Africa
+Mbuji-Mayi,-6.15,23.6,2643000.0,Democratic Republic of Congo,Africa
+Kananga,-5.897,22.4488,1971704.0,Democratic Republic of Congo,Africa
+Lubumbashi,-11.6647,27.4794,1786397.0,Democratic Republic of Congo,Africa
+Mbandaka,0.0478,18.2558,1187837.0,Democratic Republic of Congo,Africa
+Bukavu,-2.5,28.8667,1133000.0,Democratic Republic of Congo,Africa
+Kisangani,0.5153,25.1911,935977.0,Democratic Republic of Congo,Africa
+Bunia,1.5667,30.25,900666.0,Democratic Republic of Congo,Africa
+Tshikapa,-6.4167,20.8,732000.0,Democratic Republic of Congo,Africa
+Uvira,-3.4,29.15,590000.0,Democratic Republic of Congo,Africa
+Kolwezi,-10.7167,25.4667,572942.0,Democratic Republic of Congo,Africa
+Likasi,-10.9833,26.7333,495000.0,Democratic Republic of Congo,Africa
+Kikwit,-5.0386,18.8181,458000.0,Democratic Republic of Congo,Africa
+Matadi,-5.8167,13.4833,337000.0,Democratic Republic of Congo,Africa
+Beni,0.5,29.4667,332903.0,Democratic Republic of Congo,Africa
+Copenhagen,55.6761,12.5683,1366301.0,Denmark,Europe
+Aarhus,56.1572,10.2107,285273.0,Denmark,Europe
+Odense,55.3958,10.3886,180863.0,Denmark,Europe
+Aalborg,57.05,9.9167,143598.0,Denmark,Europe
+Djibouti,11.5883,43.145,603900.0,Djibouti,Africa
+Santo Domingo,18.4764,-69.8933,2581827.0,Dominican Republic,North America
+Santiago,19.4572,-70.6889,1343423.0,Dominican Republic,North America
+Santo Domingo Este,18.4855,-69.8734,948855.0,Dominican Republic,North America
+Puerto Plata,19.8,-70.6833,318419.0,Dominican Republic,North America
+La Victoria,18.55,-69.9,312345.0,Dominican Republic,North America
+Los Alcarrizos,18.5167,-70.0167,272776.0,Dominican Republic,North America
+Higuey,18.6167,-68.7,251243.0,Dominican Republic,North America
+San Cristobal,18.4167,-70.1056,232769.0,Dominican Republic,North America
+La Vega,19.22,-70.53,220279.0,Dominican Republic,North America
+San Pedro de Macoris,18.45,-69.3,195307.0,Dominican Republic,North America
+San Francisco de Macoris,19.3,-70.25,188118.0,Dominican Republic,North America
+Moca,19.3833,-70.5167,172294.0,Dominican Republic,North America
+Bani,18.29,-70.33,145595.0,Dominican Republic,North America
+Boca Chica,18.4539,-69.6064,142019.0,Dominican Republic,North America
+La Romana,18.43,-68.97,139671.0,Dominican Republic,North America
+Dili,-8.5536,125.5783,222323.0,East Timor,Asia
+Guayaquil,-2.19,-79.8875,2723665.0,Ecuador,South America
+Quito,-0.22,-78.5125,2011388.0,Ecuador,South America
+Cuenca,-2.8974,-79.0045,329928.0,Ecuador,South America
+Santo Domingo de los Colorados,-0.2542,-79.1719,270875.0,Ecuador,South America
+Machala,-3.2667,-79.9667,231260.0,Ecuador,South America
+Eloy Alfaro,-2.1733,-79.8311,230839.0,Ecuador,South America
+Manta,-0.95,-80.7162,217553.0,Ecuador,South America
+Portoviejo,-1.0561,-80.4553,206682.0,Ecuador,South America
+Sucua,-2.46,-78.17,181318.0,Ecuador,South America
+Loja,-3.9833,-79.2,170280.0,Ecuador,South America
+Ambato,-1.2417,-78.6197,165185.0,Ecuador,South America
+Esmeraldas,0.9667,-79.6528,154035.0,Ecuador,South America
+Quevedo,-1.0333,-79.45,150827.0,Ecuador,South America
+Riobamba,-1.6731,-78.6483,146324.0,Ecuador,South America
+Milagro,-2.1347,-79.5872,133508.0,Ecuador,South America
+Cairo,30.0444,31.2358,20296000.0,Egypt,Africa
+Giza,29.987,31.2118,5598402.0,Egypt,Africa
+Alexandria,31.1975,29.8925,4870000.0,Egypt,Africa
+Shubra al Khaymah,30.1286,31.2422,1025569.0,Egypt,Africa
+Al Mansurah,31.05,31.3833,960423.0,Egypt,Africa
+Halwan,29.8453,31.3333,619293.0,Egypt,Africa
+Al Mahallah al Kubra,30.9686,31.1636,535278.0,Egypt,Africa
+Port Said,31.2625,32.3061,524433.0,Egypt,Africa
+Suez,29.9667,32.55,516959.0,Egypt,Africa
+Al `Ashir min Ramadan,30.3065,31.7415,511987.0,Egypt,Africa
+Tanta,30.7833,31.0,429503.0,Egypt,Africa
+Asyut,27.1833,31.1667,389307.0,Egypt,Africa
+Biba,28.9218,30.9844,385528.0,Egypt,Africa
+Ash Shuhada',30.6039,30.9021,358486.0,Egypt,Africa
+Al Fayyum,29.3084,30.8441,315940.0,Egypt,Africa
+San Salvador,13.6989,-89.1914,567698.0,El Salvador,North America
+Usulutan,13.35,-88.45,378606.0,El Salvador,North America
+Santa Ana,13.995,-89.5561,280000.0,El Salvador,North America
+San Miguel,13.4814,-88.1775,218410.0,El Salvador,North America
+Santa Tecla,13.6731,-89.2406,199103.0,El Salvador,North America
+Mejicanos,13.7333,-89.2167,140751.0,El Salvador,North America
+Apopa,13.8,-89.1833,131286.0,El Salvador,North America
+Delgado,13.7167,-89.1667,120200.0,El Salvador,North America
+Ahuachapan,13.9167,-89.85,110511.0,El Salvador,North America
+Sonsonate,13.7167,-89.7167,110501.0,El Salvador,North America
+Bata,1.865,9.77,250770.0,Equatorial Guinea,Africa
+Malabo,3.75,8.7833,187302.0,Equatorial Guinea,Africa
+Asmara,15.3228,38.925,963000.0,Eritrea,Africa
+Keren,15.7778,38.4581,146500.0,Eritrea,Africa
+Gwelej,14.75,36.7167,100000.0,Eritrea,Africa
+Tallinn,59.4372,24.7453,438341.0,Estonia,Europe
+Manzini,-26.4833,31.3667,110508.0,Eswatini,Africa
+Addis Ababa,9.03,38.74,3041002.0,Ethiopia,Africa
+Gode,5.9527,43.5516,980782.0,Ethiopia,Africa
+Erer Sata,9.5667,41.3833,649000.0,Ethiopia,Africa
+Nazret,8.5414,39.2689,324000.0,Ethiopia,Africa
+Gonder,12.6075,37.4592,323900.0,Ethiopia,Africa
+Mekele,13.4969,39.4769,323700.0,Ethiopia,Africa
+Awasa,7.05,38.4667,300100.0,Ethiopia,Africa
+Dire Dawa,9.6,41.8667,277000.0,Ethiopia,Africa
+Bahir Dar,11.6,37.3833,243300.0,Ethiopia,Africa
+Shashemene,7.2,38.6,208368.0,Ethiopia,Africa
+Sodo,6.855,37.7808,194977.0,Ethiopia,Africa
+Arba Minch',6.0333,37.55,192043.0,Ethiopia,Africa
+Dese,11.1333,39.6333,187900.0,Ethiopia,Africa
+Hosa'ina,7.55,37.85,179761.0,Ethiopia,Africa
+Jima,7.6667,36.8333,177900.0,Ethiopia,Africa
+Suva,-18.1416,178.4419,185913.0,Fiji,Oceania
+Helsinki,60.1708,24.9375,1268296.0,Finland,Europe
+Tampere,61.4981,23.76,334112.0,Finland,Europe
+Espoo,60.2056,24.6556,297132.0,Finland,Europe
+Turku,60.45,22.2667,252468.0,Finland,Europe
+Vantaa,60.2944,25.0403,214605.0,Finland,Europe
+Oulu,65.0142,25.4719,208939.0,Finland,Europe
+Jyvaskyla,62.2417,25.7417,141441.0,Finland,Europe
+Kuopio,62.8925,27.6783,121557.0,Finland,Europe
+Lahti,60.9833,25.65,118119.0,Finland,Europe
+Paris,48.8567,2.3522,11060000.0,France,Europe
+Marseille,43.2964,5.37,870731.0,France,Europe
+Lyon,45.76,4.84,522969.0,France,Europe
+Toulouse,43.6045,1.444,493465.0,France,Europe
+Nice,43.7034,7.2663,342669.0,France,Europe
+Nantes,47.2181,-1.5528,318808.0,France,Europe
+Montpellier,43.6119,3.8772,295542.0,France,Europe
+Strasbourg,48.5833,7.7458,290576.0,France,Europe
+Bordeaux,44.84,-0.58,260958.0,France,Europe
+Lille,50.6278,3.0583,234475.0,France,Europe
+Rennes,48.1147,-1.6794,220488.0,France,Europe
+Reims,49.2628,4.0347,182211.0,France,Europe
+Toulon,43.1258,5.9306,178745.0,France,Europe
+Saint-Etienne,45.4347,4.3903,173821.0,France,Europe
+Le Havre,49.49,0.1,169733.0,France,Europe
+Papeete,-17.5334,-149.5667,131695.0,French Polynesia,Oceania
+Libreville,0.3903,9.4542,797003.0,Gabon,Africa
+Port-Gentil,-0.7167,8.7833,136462.0,Gabon,Africa
+Franceville,-1.6333,13.5833,110568.0,Gabon,Africa
+Banjul,13.4531,-16.5775,413397.0,Gambia,Africa
+Serekunda,13.4333,-16.6667,340000.0,Gambia,Africa
+Brikama,13.2667,-16.65,195136.0,Gambia,Africa
+Tbilisi,41.7225,44.7925,1118035.0,Georgia,Asia
+Batumi,41.6458,41.6417,169095.0,Georgia,Asia
+Kutaisi,42.25,42.7,147900.0,Georgia,Asia
+Rustavi,41.5472,45.0111,128680.0,Georgia,Asia
+Berlin,52.52,13.405,4473101.0,Germany,Europe
+Stuttgart,48.7775,9.18,2787724.0,Germany,Europe
+Munich,48.1375,11.575,2606021.0,Germany,Europe
+Hamburg,53.55,10.0,2484800.0,Germany,Europe
+Cologne,50.9364,6.9528,1083498.0,Germany,Europe
+Frankfurt,50.1106,8.6822,764104.0,Germany,Europe
+Dusseldorf,51.2333,6.7833,645923.0,Germany,Europe
+Leipzig,51.34,12.375,615081.0,Germany,Europe
+Dortmund,51.5167,7.4667,587696.0,Germany,Europe
+Essen,51.4508,7.0131,582415.0,Germany,Europe
+Bremen,53.0833,8.8,566573.0,Germany,Europe
+Dresden,51.05,13.74,561922.0,Germany,Europe
+Hannover,52.3667,9.7167,542668.0,Germany,Europe
+Nuremberg,49.4539,11.0775,515543.0,Germany,Europe
+Duisburg,51.4347,6.7625,495885.0,Germany,Europe
+Boankra,6.6944,-1.4028,3348000.0,Ghana,Africa
+Accra,5.55,-0.2,2388000.0,Ghana,Africa
+Kumasi,6.6667,-1.6167,2069350.0,Ghana,Africa
+Tamale,9.4075,-0.8533,1095808.0,Ghana,Africa
+Domaa-Ahenkro,7.2833,-2.8833,1000000.0,Ghana,Africa
+Sekondi,4.9433,-1.704,286248.0,Ghana,Africa
+Sunyani,7.3333,-2.3333,208496.0,Ghana,Africa
+Ashaiman,5.7,-0.0333,208060.0,Ghana,Africa
+Obuase,6.2,-1.6833,180460.0,Ghana,Africa
+Cape Coast,5.1,-1.25,169894.0,Ghana,Africa
+Tema,5.6667,-0.0167,161612.0,Ghana,Africa
+Medina Estates,5.6833,-0.1667,137162.0,Ghana,Africa
+Koforidua,6.0833,-0.25,127334.0,Ghana,Africa
+Suhum,6.0333,-0.45,126403.0,Ghana,Africa
+Kintampo,8.0522,-1.7347,111000.0,Ghana,Africa
+Gibraltar,36.1333,-5.35,187083.0,Gibraltar,Europe
+Athens,37.9842,23.7281,3041131.0,Greece,Europe
+Thessaloniki,40.6403,22.9347,824676.0,Greece,Europe
+Piraeus,37.943,23.6469,448997.0,Greece,Europe
+Irakleio,35.3403,25.1344,211370.0,Greece,Europe
+Patra,38.25,21.7333,167446.0,Greece,Europe
+Larisa,39.6417,22.4167,144651.0,Greece,Europe
+Volos,39.3667,22.9333,144449.0,Greece,Europe
+Peristeri,38.0167,23.6833,139981.0,Greece,Europe
+Ioannina,39.6636,20.8522,113094.0,Greece,Europe
+Acharnes,38.0833,23.7333,108130.0,Greece,Europe
+Kallithea,37.95,23.7,100641.0,Greece,Europe
+Pointe-a-Pitre,16.2411,-61.5331,250952.0,Guadeloupe,North America
+Maina,13.4692,144.7332,122411.0,Guam,Oceania
+Guatemala City,14.6099,-90.5252,2934841.0,Guatemala,North America
+Villa Nueva,14.5314,-90.5964,618397.0,Guatemala,North America
+Mixco,14.6338,-90.6146,517505.0,Guatemala,North America
+Coatepeque,14.7,-91.8667,300000.0,Guatemala,North America
+San Juan Sacatepequez,14.7189,-90.6442,284798.0,Guatemala,North America
+San Pedro Carcha,15.4768,-90.312,255006.0,Guatemala,North America
+Coban,15.4833,-90.3667,228664.0,Guatemala,North America
+Quetzaltenango,14.8333,-91.5167,225000.0,Guatemala,North America
+Jalapa,14.6379,-89.9904,192676.0,Guatemala,North America
+Escuintla,14.2978,-90.7869,170280.0,Guatemala,North America
+Villa Canales,14.4816,-90.534,167779.0,Guatemala,North America
+Jutiapa,14.2917,-89.8958,167049.0,Guatemala,North America
+Amatitlan,14.4741,-90.6247,152296.0,Guatemala,North America
+Chichicastenango,14.9442,-91.1105,150932.0,Guatemala,North America
+Flores,16.9333,-89.8833,144932.0,Guatemala,North America
+Conakry,9.5092,-13.7122,1667864.0,Guinea,Africa
+Mamou,10.3833,-12.0833,376269.0,Guinea,Africa
+Gueckedou,8.5667,-10.1333,221715.0,Guinea,Africa
+Kankan,10.3833,-9.3,198013.0,Guinea,Africa
+N'Zerekore,7.75,-8.8167,195027.0,Guinea,Africa
+Siguiri,11.4189,-9.1644,183875.0,Guinea,Africa
+Kindia,10.0497,-12.8542,181126.0,Guinea,Africa
+Boke,10.94,-14.3,116270.0,Guinea,Africa
+Labe,11.3167,-12.2833,107695.0,Guinea,Africa
+Bissau,11.85,-15.5667,492004.0,Guinea-Bissau,Africa
+Georgetown,6.8058,-58.1508,200500.0,Guyana,South America
+Port-au-Prince,18.5333,-72.3333,987310.0,Haiti,North America
+Carrefour,18.5344,-72.4094,511345.0,Haiti,North America
+Petion-Ville,18.5128,-72.2864,359615.0,Haiti,North America
+Gonaives,19.4456,-72.6883,324043.0,Haiti,North America
+Croix-des-Bouquets,18.5761,-72.2269,284812.0,Haiti,North America
+Delmas,18.55,-72.3,284079.0,Haiti,North America
+Cap-Haitien,19.76,-72.2,190289.0,Haiti,North America
+Les Cayes,18.2,-73.75,175457.0,Haiti,North America
+Petite Riviere de l'Artibonite,19.1333,-72.4833,170740.0,Haiti,North America
+Saint-Marc,19.1167,-72.7,160181.0,Haiti,North America
+Jean-Rabel,19.85,-73.2,148416.0,Haiti,North America
+Jacmel,18.2353,-72.5367,137966.0,Haiti,North America
+Tabarre,18.5833,-72.2667,130283.0,Haiti,North America
+Dessalines,19.2833,-72.5,127529.0,Haiti,North America
+Port-de-Paix,19.95,-72.8333,121220.0,Haiti,North America
+Tegucigalpa,14.1,-87.2167,1682725.0,Honduras,North America
+Comayaguela,14.0981,-87.2097,1250000.0,Honduras,North America
+San Pedro Sula,15.5,-88.0333,760182.0,Honduras,North America
+Choloma,15.6136,-87.9511,227535.0,Honduras,North America
+La Ceiba,15.7792,-86.7931,205775.0,Honduras,North America
+El Progreso,15.4,-87.8,188366.0,Honduras,North America
+Villanueva,15.3167,-88.0167,153733.0,Honduras,North America
+Ciudad Choluteca,13.3011,-87.1842,152519.0,Honduras,North America
+Comayagua,14.4522,-87.6383,144785.0,Honduras,North America
+Juticalpa,14.6664,-86.2186,124828.0,Honduras,North America
+Puerto Cortes,15.8833,-87.95,122426.0,Honduras,North America
+Catacamas,14.8486,-85.8942,117493.0,Honduras,North America
+Olanchito,15.4833,-86.5833,104609.0,Honduras,North America
+Hong Kong,22.3,114.2,7450000.0,Hong Kong,Asia
+Kowloon,22.3167,114.1833,2108419.0,Hong Kong,Asia
+Sha Tin,22.3802,114.1898,640000.0,Hong Kong,Asia
+Kowloon City,22.3282,114.1916,418732.0,Hong Kong,Asia
+Sham Shui Po,22.3307,114.1622,405869.0,Hong Kong,Asia
+Tin Shui Wai,22.4608,114.0012,286232.0,Hong Kong,Asia
+Central District,22.2867,114.155,235953.0,Hong Kong,Asia
+Tsing Yi Town,22.3456,114.1,191500.0,Hong Kong,Asia
+Lam Tin,22.3094,114.2361,131000.0,Hong Kong,Asia
+Budapest,47.4925,19.0514,2997958.0,Hungary,Europe
+Debrecen,47.53,21.6392,328642.0,Hungary,Europe
+Szekesfehervar,47.1956,18.4089,272474.0,Hungary,Europe
+Gyor,47.6842,17.6344,246159.0,Hungary,Europe
+Szeged,46.255,20.145,239025.0,Hungary,Europe
+Nyiregyhaza,47.9531,21.7271,238020.0,Hungary,Europe
+Kecskemet,46.9061,19.6897,187835.0,Hungary,Europe
+Miskolc,48.0833,20.6667,150695.0,Hungary,Europe
+Szombathely,47.2351,16.6219,147920.0,Hungary,Europe
+Pecs,46.0708,18.2331,140237.0,Hungary,Europe
+Veszprem,47.093,17.9138,133880.0,Hungary,Europe
+Kaposvar,46.3638,17.7823,112253.0,Hungary,Europe
+Reykjavik,64.1467,-21.94,135688.0,Iceland,Europe
+Delhi,28.61,77.23,32226000.0,India,Asia
+Mumbai,19.0761,72.8775,24973000.0,India,Asia
+Kolkata,22.5675,88.37,18502000.0,India,Asia
+Bangalore,12.9789,77.5917,15386000.0,India,Asia
+Chennai,13.0825,80.275,12395000.0,India,Asia
+Hyderabad,17.385,78.4867,10494000.0,India,Asia
+Pune,18.5203,73.8567,8231000.0,India,Asia
+Ahmedabad,23.03,72.58,8009000.0,India,Asia
+Surat,21.1702,72.8311,6538000.0,India,Asia
+Prayagraj,25.4358,81.8464,5954391.0,India,Asia
+Lucknow,26.85,80.95,3382000.0,India,Asia
+Jaipur,26.9,75.8,3073350.0,India,Asia
+Cawnpore,26.4499,80.3319,2701324.0,India,Asia
+Mirzapur,25.146,82.569,2496970.0,India,Asia
+Nagpur,21.1497,79.0806,2405665.0,India,Asia
+Jakarta,-6.175,106.8275,33756000.0,Indonesia,Asia
+Surabaya,-7.2458,112.7378,6499000.0,Indonesia,Asia
+Medan,3.5894,98.6739,3632000.0,Indonesia,Asia
+Malang,-7.98,112.62,2795209.0,Indonesia,Asia
+Bekasi,-6.2349,106.9923,2381053.0,Indonesia,Asia
+Depok,-6.394,106.8225,2330333.0,Indonesia,Asia
+Tangerang,-6.1783,106.6319,2237006.0,Indonesia,Asia
+Denpasar,-8.65,115.2167,1779122.0,Indonesia,Asia
+Sangereng,-6.2889,106.7181,1644899.0,Indonesia,Asia
+Semarang,-6.9667,110.4167,1621384.0,Indonesia,Asia
+Palembang,-2.9861,104.7556,1535952.0,Indonesia,Asia
+Makassar,-5.1619,119.4362,1338663.0,Indonesia,Asia
+Jepara,-6.5333,110.6667,1257912.0,Indonesia,Asia
+Sumedang,-6.84,107.9208,1240000.0,Indonesia,Asia
+Bagam,1.0833,104.0333,1230097.0,Indonesia,Asia
+Tehran,35.6892,51.3889,14148000.0,Iran,Asia
+Kashan,33.9833,51.4333,5000000.0,Iran,Asia
+Mashhad,36.3,59.6,3372090.0,Iran,Asia
+Esfahan,32.6447,51.6675,2219343.0,Iran,Asia
+Karaj,35.8272,50.9489,1973470.0,Iran,Asia
+Shiraz,29.61,52.5425,1565572.0,Iran,Asia
+Tabriz,38.0814,46.3006,1558693.0,Iran,Asia
+Ahvaz,31.3203,48.6692,1261042.0,Iran,Asia
+Qom,34.64,50.8764,1201158.0,Iran,Asia
+Kermanshah,34.3142,47.065,952285.0,Iran,Asia
+Kerman,30.2833,57.0833,738374.0,Iran,Asia
+Orumiyeh,37.5486,45.0675,736224.0,Iran,Asia
+Rasht,37.2808,49.5831,679995.0,Iran,Asia
+Bahar,34.9072,48.4414,673405.0,Iran,Asia
+Zahedan,29.4964,60.8628,587730.0,Iran,Asia
+Baghdad,33.3153,44.3661,6183000.0,Iraq,Asia
+Mosul,36.34,43.13,1694000.0,Iraq,Asia
+Al Basrah,30.515,47.81,1326564.0,Iraq,Asia
+Kirkuk,35.4667,44.3167,975000.0,Iraq,Asia
+As Sulaymaniyah,35.5572,45.4356,878146.0,Iraq,Asia
+Ar Ramadi,33.4258,43.2992,874543.0,Iraq,Asia
+Erbil,36.1912,44.0092,846000.0,Iraq,Asia
+An Najaf,32.0,44.33,724700.0,Iraq,Asia
+Karbala',32.6167,44.0333,690100.0,Iraq,Asia
+An Nasiriyah,31.0439,46.2575,541600.0,Iraq,Asia
+Al Hillah,32.4833,44.4333,541034.0,Iraq,Asia
+Al `Amarah,31.8333,47.15,511500.0,Iraq,Asia
+Ba`qubah,33.75,44.6333,467900.0,Iraq,Asia
+Ad Diwaniyah,31.9892,44.9247,391600.0,Iraq,Asia
+Az Zubayr,30.3833,47.7,370000.0,Iraq,Asia
+Dublin,53.35,-6.2603,1173179.0,Ireland,Europe
+Finglas,53.4597,-6.2181,296214.0,Ireland,Europe
+Cork,51.8972,-8.47,222333.0,Ireland,Europe
+Tel Aviv-Yafo,32.08,34.78,1388400.0,Israel,Asia
+Jerusalem,31.7784,35.2066,919438.0,Israel,Asia
+Haifa,32.8192,34.9992,600000.0,Israel,Asia
+Rishon LeZiyyon,31.95,34.8,249860.0,Israel,Asia
+Petah Tiqwa,32.0889,34.8864,236169.0,Israel,Asia
+Ashdod,31.8,34.65,220174.0,Israel,Asia
+Netanya,32.3286,34.8567,217244.0,Israel,Asia
+Beersheba,31.2589,34.7997,209000.0,Israel,Asia
+Holon,32.0167,34.7667,194300.0,Israel,Asia
+Bene Beraq,32.0833,34.8333,193774.0,Israel,Asia
+Ramat Gan,32.07,34.8236,159200.0,Israel,Asia
+Ashqelon,31.6667,34.5667,134454.0,Israel,Asia
+Rehovot,31.8981,34.8081,132671.0,Israel,Asia
+Bat Yam,32.0167,34.75,128800.0,Israel,Asia
+Bet Shemesh,31.7456,34.9867,118700.0,Israel,Asia
+Rome,41.8931,12.4828,2872800.0,Italy,Europe
+Milan,45.4669,9.19,1366180.0,Italy,Europe
+Naples,40.8333,14.25,966144.0,Italy,Europe
+Turin,45.0792,7.6761,870952.0,Italy,Europe
+Palermo,38.1157,13.3613,668405.0,Italy,Europe
+Genoa,44.4111,8.9328,580097.0,Italy,Europe
+Bologna,44.4939,11.3428,392564.0,Italy,Europe
+Florence,43.7714,11.2542,380948.0,Italy,Europe
+Bari,41.1253,16.8667,323370.0,Italy,Europe
+Catania,37.5,15.0903,311584.0,Italy,Europe
+Venice,45.4397,12.3319,261321.0,Italy,Europe
+Verona,45.4386,10.9928,257275.0,Italy,Europe
+Messina,38.1936,15.5542,234293.0,Italy,Europe
+Padova,45.4064,11.8778,210440.0,Italy,Europe
+Trieste,45.6503,13.7703,204338.0,Italy,Europe
+Kingston,17.9714,-76.7931,580000.0,Jamaica,North America
+Portmore,17.95,-76.8799,170000.0,Jamaica,North America
+May Pen,17.965,-77.245,135142.0,Jamaica,North America
+Spanish Town,17.9959,-76.9551,131056.0,Jamaica,North America
+Montego Bay,18.4667,-77.9167,110115.0,Jamaica,North America
+Tokyo,35.6897,139.6922,37732000.0,Japan,Asia
+Osaka,34.6939,135.5022,15126000.0,Japan,Asia
+Nagoya,35.1833,136.9,9197000.0,Japan,Asia
+Yokohama,35.4442,139.6381,3757630.0,Japan,Asia
+Fukuoka,33.5833,130.4,2286000.0,Japan,Asia
+Sapporo,43.0667,141.35,1961690.0,Japan,Asia
+Kawasaki,35.5167,139.7,1539522.0,Japan,Asia
+Kobe,34.69,135.1956,1521707.0,Japan,Asia
+Kyoto,35.0117,135.7683,1464890.0,Japan,Asia
+Saitama,35.8614,139.6456,1325843.0,Japan,Asia
+Hiroshima,34.3914,132.4519,1198021.0,Japan,Asia
+Sendai,38.2682,140.8694,1061177.0,Japan,Asia
+Chiba,35.6073,140.1064,981738.0,Japan,Asia
+Setagaya,35.6466,139.6532,940509.0,Japan,Asia
+Kitakyushu,33.8833,130.8833,935084.0,Japan,Asia
+Amman,31.9497,35.9328,4007526.0,Jordan,Asia
+Al Mafraq,32.3399,36.2052,580000.0,Jordan,Asia
+Irbid,32.55,35.85,569068.0,Jordan,Asia
+Az Zarqa',32.0833,36.1,481300.0,Jordan,Asia
+Ar Rusayfah,32.0178,36.0464,280000.0,Jordan,Asia
+Sahab,31.8667,36.0,169434.0,Jordan,Asia
+Ar Ramtha,32.5589,36.0147,155693.0,Jordan,Asia
+`Ajlun,32.3325,35.7517,148870.0,Jordan,Asia
+Al `Aqabah,29.5319,35.0056,148398.0,Jordan,Asia
+Almaty,43.2775,76.8958,1916822.0,Kazakhstan,Asia
+Nur-Sultan,51.1472,71.4222,1078362.0,Kazakhstan,Asia
+Shymkent,42.3167,69.5958,1028673.0,Kazakhstan,Asia
+Qaraghandy,49.8028,73.1056,497777.0,Kazakhstan,Asia
+Aqtobe,50.2836,57.2297,387807.0,Kazakhstan,Asia
+Taraz,42.9,71.3667,357795.0,Kazakhstan,Asia
+Pavlodar,52.3,76.95,353930.0,Kazakhstan,Asia
+Semey,50.4333,80.2667,350201.0,Kazakhstan,Asia
+Oskemen,49.9833,82.6167,346127.0,Kazakhstan,Asia
+Atyrau,47.1167,51.8833,290700.0,Kazakhstan,Asia
+Qyzylorda,44.85,65.5167,242462.0,Kazakhstan,Asia
+Oral,51.2225,51.3725,234184.0,Kazakhstan,Asia
+Qostanay,53.2,63.62,217135.0,Kazakhstan,Asia
+Petropavl,54.8833,69.1667,216406.0,Kazakhstan,Asia
+Temirtau,50.05,72.95,185082.0,Kazakhstan,Asia
+Nairobi,-1.2864,36.8172,5545000.0,Kenya,Africa
+Meru,0.05,37.65,1833000.0,Kenya,Africa
+Mombasa,-4.05,39.6667,1208333.0,Kenya,Africa
+Kisumu,-0.0833,34.7667,409928.0,Kenya,Africa
+Kikuyu,-1.25,36.6667,323881.0,Kenya,Africa
+Nakuru,-0.3,36.0667,307990.0,Kenya,Africa
+Eldoret,0.5167,35.2833,193830.0,Kenya,Africa
+Habaswein,1.01,39.49,174134.0,Kenya,Africa
+Ongata Rongai,-1.4,36.77,172570.0,Kenya,Africa
+Molo,-0.25,35.7333,156732.0,Kenya,Africa
+Kitenkela,-1.5167,36.85,154436.0,Kenya,Africa
+Kiambu,-1.1667,36.8167,147870.0,Kenya,Africa
+Ramu,3.9375,41.2203,143850.0,Kenya,Africa
+Kilifi,-3.6333,39.85,122899.0,Kenya,Africa
+Malindi,-3.2236,40.13,119859.0,Kenya,Africa
+Kuwait City,29.3697,47.9783,3000000.0,Kuwait,Asia
+Al Jahra',29.35,47.6833,393432.0,Kuwait,Asia
+Abu Hulayfah,29.1322,48.1261,164212.0,Kuwait,Asia
+Bishkek,42.8747,74.6122,1074075.0,Kyrgyzstan,Asia
+Osh,40.5333,72.7833,322164.0,Kyrgyzstan,Asia
+Vientiane,17.9667,102.6,948487.0,Laos,Asia
+Xiangkhoang,19.4167,103.5,267172.0,Laos,Asia
+Savannakhet,16.55,104.75,124000.0,Laos,Asia
+Pakxe,15.1167,105.7833,119848.0,Laos,Asia
+Riga,56.9489,24.1064,920643.0,Latvia,Europe
+Tripoli,34.4367,35.8344,530000.0,Lebanon,Asia
+Beirut,33.8869,35.5131,361366.0,Lebanon,Asia
+Sidon,33.5606,35.3758,200000.0,Lebanon,Asia
+Tyre,33.2708,35.1961,160000.0,Lebanon,Asia
+Borj Hammoud,33.8936,35.5403,150000.0,Lebanon,Asia
+El Minie,34.447,35.8178,150000.0,Lebanon,Asia
+Aaley,33.8,35.6,130000.0,Lebanon,Asia
+Jounie,33.9697,35.6156,102221.0,Lebanon,Asia
+Zahle,33.8333,35.9167,100000.0,Lebanon,Asia
+Maseru,-29.31,27.48,519186.0,Lesotho,Africa
+Monrovia,6.3133,-10.8014,1021762.0,Liberia,Africa
+Tripoli,32.8872,13.1914,1293016.0,Libya,Africa
+Benghazi,32.1167,20.0667,631555.0,Libya,Africa
+Ajdabiya,30.7556,20.2253,416000.0,Libya,Africa
+Misratah,32.3775,15.092,259056.0,Libya,Africa
+Al Bayda',32.7664,21.7417,250000.0,Libya,Africa
+Al Khums,32.6497,14.2644,201943.0,Libya,Africa
+Az Zawiyah,32.7522,12.7278,200000.0,Libya,Africa
+Gharyan,32.1697,13.0167,187854.0,Libya,Africa
+Al Marj,32.5005,20.83,169540.0,Libya,Africa
+Tobruk,32.0761,23.9614,135832.0,Libya,Africa
+Darnah,32.7667,22.6333,127974.0,Libya,Africa
+Sabha,27.0389,14.4264,116016.0,Libya,Africa
+Sabratah,32.7922,12.4842,102038.0,Libya,Africa
+Al Jumayl,32.8528,12.0611,102000.0,Libya,Africa
+Vilnius,54.6872,25.28,708203.0,Lithuania,Europe
+Kaunas,54.8972,23.8861,381007.0,Lithuania,Europe
+Klaipeda,55.75,21.1667,164310.0,Lithuania,Europe
+Panevezys,55.7333,24.35,124412.0,Lithuania,Europe
+Siauliai,55.9333,23.3167,107086.0,Lithuania,Europe
+Luxembourg,49.6117,6.1319,132780.0,Luxembourg,Europe
+Macau,22.2006,113.5461,568700.0,Macao,Asia
+Antananarivo,-18.9333,47.5167,2610000.0,Madagascar,Africa
+Androtsy,-24.1,46.3,809313.0,Madagascar,Africa
+Betsiboka,-16.95,46.83,394561.0,Madagascar,Africa
+Ihosy,-22.4036,46.1258,283047.0,Madagascar,Africa
+Antsirabe,-19.8667,47.0333,257163.0,Madagascar,Africa
+Mahajanga,-15.7167,46.3167,246022.0,Madagascar,Africa
+Toamasina,-18.15,49.4167,225116.0,Madagascar,Africa
+Fianarantsoa,-21.4536,47.0858,191776.0,Madagascar,Africa
+Toliara,-23.35,43.6667,168756.0,Madagascar,Africa
+Antsiranana,-12.3,49.2833,129320.0,Madagascar,Africa
+Ambovombe,-25.1764,46.0833,114230.0,Madagascar,Africa
+Blantyre,-15.7861,35.0058,1895973.0,Malawi,Africa
+Lilongwe,-13.9833,33.7833,989318.0,Malawi,Africa
+Mzuzu,-11.4581,34.0151,150100.0,Malawi,Africa
+Zomba,-15.3833,35.3333,101140.0,Malawi,Africa
+Kuala Lumpur,3.1478,101.6953,8911000.0,Malaysia,Asia
+Seberang Jaya,5.4,100.4667,946092.0,Malaysia,Asia
+Klang,3.0333,101.45,878000.0,Malaysia,Asia
+Ipoh,4.5972,101.075,866772.0,Malaysia,Asia
+Butterworth,5.3992,100.3639,821652.0,Malaysia,Asia
+George Town,5.4144,100.3292,794313.0,Malaysia,Asia
+Petaling Jaya,3.0972,101.6444,638516.0,Malaysia,Asia
+Kuantan,3.8167,103.3333,607778.0,Malaysia,Asia
+Shah Alam,3.0722,101.5167,584340.0,Malaysia,Asia
+Johor Bahru,1.4556,103.7611,497097.0,Malaysia,Asia
+Kota Bharu,6.1333,102.25,491237.0,Malaysia,Asia
+Melaka,2.1944,102.2486,455300.0,Malaysia,Asia
+Kota Kinabalu,5.975,116.0725,452058.0,Malaysia,Asia
+Seremban,2.7222,101.9417,419536.0,Malaysia,Asia
+Sandakan,5.8388,118.1173,396290.0,Malaysia,Asia
+Male,4.1753,73.5089,133019.0,Maldives,Asia
+Bamako,12.6458,-7.9922,2009109.0,Mali,Africa
+Balandougou,13.3558,-9.5517,1596882.0,Mali,Africa
+Sikasso,11.3167,-5.6667,213977.0,Mali,Africa
+Segou,13.45,-6.2667,133501.0,Mali,Africa
+Mopti,14.49,-4.18,108456.0,Mali,Africa
+Koutiala,12.3833,-5.4667,104927.0,Mali,Africa
+Valletta,35.8983,14.5125,480134.0,Malta,Europe
+Fort-de-France,14.6,-61.0667,253995.0,Martinique,North America
+Nouakchott,18.0858,-15.9785,1077169.0,Mauritania,Africa
+Nema,16.6167,-7.25,200000.0,Mauritania,Africa
+Nouadhibou,20.9333,-17.0333,118000.0,Mauritania,Africa
+Kiffa,16.63,-11.4,110714.0,Mauritania,Africa
+Arafat,18.0464,-15.9719,102169.0,Mauritania,Africa
+Curepipe,-20.3188,57.5263,299975.0,Mauritius,Africa
+Port Louis,-20.1644,57.5042,149194.0,Mauritius,Africa
+Mexico City,19.4333,-99.1333,21804000.0,Mexico,North America
+Guadalajara,20.6767,-103.3475,5525000.0,Mexico,North America
+Monterrey,25.6667,-100.3,5341171.0,Mexico,North America
+Tijuana,32.525,-117.0333,2002000.0,Mexico,North America
+Ecatepec,19.6097,-99.06,1929926.0,Mexico,North America
+Leon de los Aldama,21.1167,-101.6833,1579803.0,Mexico,North America
+Puebla,19.0333,-98.1833,1576259.0,Mexico,North America
+Zapopan,20.7167,-103.4,1476491.0,Mexico,North America
+Juarez,31.7386,-106.487,1321004.0,Mexico,North America
+Ciudad Nezahualcoyotl,19.4081,-99.0186,1109363.0,Mexico,North America
+Mexicali,32.6633,-115.4678,1102342.0,Mexico,North America
+Nezahualcoyotl,19.4006,-99.0148,1077208.0,Mexico,North America
+Morelia,19.7683,-101.1894,962555.0,Mexico,North America
+Aguascalientes,21.876,-102.296,934424.0,Mexico,North America
+Naucalpan de Juarez,19.4753,-99.2378,913681.0,Mexico,North America
+Chisinau,47.0228,28.8353,702300.0,Moldova,Europe
+Tiraspol,46.8403,29.6433,133807.0,Moldova,Europe
+Balti,47.7667,27.9167,102457.0,Moldova,Europe
+Ulaanbaatar,47.9203,106.9172,1396288.0,Mongolia,Asia
+Moron,49.6356,100.1556,134530.0,Mongolia,Asia
+Erdenet,49.0278,104.0444,106810.0,Mongolia,Asia
+Podgorica,42.4413,19.2629,150977.0,Montenegro,Europe
+Casablanca,33.5333,-7.5833,4370000.0,Morocco,Africa
+El Kelaa des Srarhna,32.0481,-7.4083,1450021.0,Morocco,Africa
+Fes,34.0433,-5.0033,1112072.0,Morocco,Africa
+Tangier,35.7767,-5.8039,947952.0,Morocco,Africa
+Marrakech,31.63,-8.0089,928850.0,Morocco,Africa
+Sale,34.0333,-6.8,850403.0,Morocco,Africa
+Mediouna,33.45,-7.51,822851.0,Morocco,Africa
+Rabat,34.0209,-6.8416,572717.0,Morocco,Africa
+Meknes,33.895,-5.5547,520428.0,Morocco,Africa
+Oujda-Angad,34.6867,-1.9114,494252.0,Morocco,Africa
+Kenitra,34.25,-6.5833,431282.0,Morocco,Africa
+Agadir,30.4333,-9.6,421844.0,Morocco,Africa
+Tetouan,35.5667,-5.3667,380787.0,Morocco,Africa
+Taourirt,34.4169,-2.885,321876.0,Morocco,Africa
+Temara,33.9267,-6.9122,313510.0,Morocco,Africa
+Maputo,-25.9667,32.5833,1191613.0,Mozambique,Africa
+Matola,-25.9667,32.4667,1032197.0,Mozambique,Africa
+Nampula,-15.1167,39.2667,743000.0,Mozambique,Africa
+Beira,-19.8333,34.85,436240.0,Mozambique,Africa
+Antonio Enes,-16.2333,39.9167,347175.0,Mozambique,Africa
+Chimoio,-19.1167,33.45,238976.0,Mozambique,Africa
+Cidade de Nacala,-14.5428,40.6728,206449.0,Mozambique,Africa
+Malema,-14.9486,37.4144,195077.0,Mozambique,Africa
+Quelimane,-17.8764,36.8872,192876.0,Mozambique,Africa
+Tete,-16.1667,33.6,152909.0,Mozambique,Africa
+Lichinga,-13.3167,35.2333,142253.0,Mozambique,Africa
+Pemba,-12.9667,40.55,141316.0,Mozambique,Africa
+Xai-Xai,-25.05,33.65,116343.0,Mozambique,Africa
+Maxixe,-23.8667,35.35,108824.0,Mozambique,Africa
+Rangoon,16.795,96.16,5209541.0,Myanmar,Asia
+Mandalay,21.9831,96.0844,1319452.0,Myanmar,Asia
+Nay Pyi Taw,19.7475,96.115,1160242.0,Myanmar,Asia
+Kyaukse,21.6131,96.1303,741071.0,Myanmar,Asia
+Hpa-An,16.8906,97.6333,421525.0,Myanmar,Asia
+Maungdaw,20.8167,92.3667,400000.0,Myanmar,Asia
+Taunggyi,20.7836,97.0354,381639.0,Myanmar,Asia
+Magway,20.15,94.95,289247.0,Myanmar,Asia
+Myeik,12.4333,98.6,284498.0,Myanmar,Asia
+Bago,17.3333,96.4833,284179.0,Myanmar,Asia
+Mawlamyine,16.4847,97.6258,253734.0,Myanmar,Asia
+Natogyi,21.4167,95.65,250000.0,Myanmar,Asia
+Myitkyina,25.3833,97.4,243031.0,Myanmar,Asia
+Pathein,16.7778,94.7369,237089.0,Myanmar,Asia
+Monywa,22.1083,95.1417,207489.0,Myanmar,Asia
+Windhoek,-22.57,17.0836,322500.0,Namibia,Africa
+Kathmandu,27.7172,85.324,975453.0,Nepal,Asia
+Bharatpur,27.6833,84.4333,369377.0,Nepal,Asia
+Pokhara,28.2083,83.9889,353841.0,Nepal,Asia
+Jitpur,27.6666,85.3333,337785.0,Nepal,Asia
+Biratnagar,26.4542,87.2797,242548.0,Nepal,Asia
+Ghorahi,28.0333,82.4833,156164.0,Nepal,Asia
+Birganj,27.0,84.8667,135904.0,Nepal,Asia
+Butwal,27.7,83.466,118462.0,Nepal,Asia
+Dharan,26.8167,87.2833,116181.0,Nepal,Asia
+Dhangadhi,28.7136,80.5692,101970.0,Nepal,Asia
+Amsterdam,52.3728,4.8936,1459402.0,Netherlands,Europe
+Rotterdam,51.9167,4.5,631155.0,Netherlands,Europe
+The Hague,52.08,4.31,548320.0,Netherlands,Europe
+Utrecht,52.0833,5.1167,359370.0,Netherlands,Europe
+Maastricht,50.85,5.6833,277721.0,Netherlands,Europe
+Eindhoven,51.4333,5.4833,235691.0,Netherlands,Europe
+Groningen,53.2167,6.5667,233273.0,Netherlands,Europe
+Tilburg,51.55,5.0833,221947.0,Netherlands,Europe
+Almere,52.3667,5.2167,214715.0,Netherlands,Europe
+Breda,51.5889,4.7758,184126.0,Netherlands,Europe
+Nijmegen,51.8475,5.8625,177659.0,Netherlands,Europe
+Arnhem,51.9833,5.9167,164096.0,Netherlands,Europe
+Haarlem,52.3833,4.6333,162902.0,Netherlands,Europe
+Apeldoorn,52.2167,5.9667,161156.0,Netherlands,Europe
+Enschede,52.2167,6.9,159703.0,Netherlands,Europe
+Noumea,-22.2758,166.458,182341.0,New Caledonia,Oceania
+Auckland,-36.8406,174.74,1346091.0,New Zealand,Oceania
+Wellington,-41.2889,174.7772,418500.0,New Zealand,Oceania
+Christchurch,-43.531,172.6365,383200.0,New Zealand,Oceania
+Manukau City,-37.0,174.885,375600.0,New Zealand,Oceania
+Waitakere,-36.85,174.543,208100.0,New Zealand,Oceania
+Northcote,-36.8019,174.7494,205605.0,New Zealand,Oceania
+Hamilton,-37.7833,175.2833,176500.0,New Zealand,Oceania
+Tauranga,-37.6833,176.1667,151300.0,New Zealand,Oceania
+Lower Hutt,-41.2167,174.9167,103400.0,New Zealand,Oceania
+Managua,12.1544,-86.2738,1028808.0,Nicaragua,North America
+Boaco,12.4719,-85.6594,317000.0,Nicaragua,North America
+Leon,12.4344,-86.8775,174051.0,Nicaragua,North America
+Masaya,11.9764,-86.0875,139582.0,Nicaragua,North America
+Matagalpa,12.9286,-85.9178,133416.0,Nicaragua,North America
+Chinandega,12.6297,-87.1283,121793.0,Nicaragua,North America
+Esteli,13.0933,-86.3547,112084.0,Nicaragua,North America
+Tipitapa,12.1964,-86.0969,108457.0,Nicaragua,North America
+Granada,11.9347,-85.9589,105171.0,Nicaragua,North America
+Niamey,13.515,2.1175,1026848.0,Niger,Africa
+Maradi,13.4833,7.1,267249.0,Niger,Africa
+Zinder,13.8053,8.9883,235605.0,Niger,Africa
+Tahoua,14.8903,5.2642,117826.0,Niger,Africa
+Agadez,16.9959,7.9828,117770.0,Niger,Africa
+Sabara Bangou,15.1177,1.996,111490.0,Niger,Africa
+Lagos,6.455,3.3841,16637000.0,Nigeria,Africa
+Kano,12.0,8.5167,3848885.0,Nigeria,Africa
+Abuja,9.0667,7.4833,3770000.0,Nigeria,Africa
+Ibadan,7.3964,3.9167,3552000.0,Nigeria,Africa
+Port Harcourt,4.8242,7.0336,1865000.0,Nigeria,Africa
+Aba,5.1167,7.3667,1530000.0,Nigeria,Africa
+Onitsha,6.1667,6.7833,1483000.0,Nigeria,Africa
+Maiduguri,11.8333,13.15,1197497.0,Nigeria,Africa
+Benin City,6.3333,5.6222,1147188.0,Nigeria,Africa
+Shagamu,6.8333,3.65,1132270.0,Nigeria,Africa
+Ikare,7.5167,5.75,1099931.0,Nigeria,Africa
+Ogbomoso,8.1333,4.25,1032000.0,Nigeria,Africa
+Owerri,5.4833,7.0333,908109.0,Nigeria,Africa
+Abeokuta,7.1608,3.3483,888924.0,Nigeria,Africa
+Ikeja,6.6186,3.3426,861300.0,Nigeria,Africa
+Pyongyang,39.0194,125.7381,2863000.0,North Korea,Asia
+Hamhung,39.9167,127.5333,768551.0,North Korea,Asia
+Nampo,38.7333,125.4,703317.0,North Korea,Asia
+Ch'ongjin,41.7833,129.7667,667929.0,North Korea,Asia
+Sunch'on,39.4167,125.9333,437000.0,North Korea,Asia
+Wonsan,39.1475,127.4461,363127.0,North Korea,Asia
+Sinuiju,40.1,124.4,352000.0,North Korea,Asia
+Tanch'on,40.458,128.911,345876.0,North Korea,Asia
+Kaesong,37.9667,126.55,338155.0,North Korea,Asia
+Kaech'on,39.6986,125.9061,319554.0,North Korea,Asia
+Sariwon,38.5064,125.7597,307764.0,North Korea,Asia
+Kanggye,40.9667,126.6,251971.0,North Korea,Asia
+Haeju,38.0333,125.7167,241599.0,North Korea,Asia
+Anju,39.62,125.66,240117.0,North Korea,Asia
+P'yong-dong,39.25,125.85,236583.0,North Korea,Asia
+Skopje,41.9961,21.4317,640000.0,North Macedonia,Europe
+Tetovo,42.0103,20.9714,142030.0,North Macedonia,Europe
+Oslo,59.9133,10.7389,1064235.0,Norway,Europe
+Bergen,60.3894,5.33,267117.0,Norway,Europe
+Sandnes,58.8517,5.7361,237369.0,Norway,Europe
+Stavanger,58.97,5.7314,237369.0,Norway,Europe
+Trondheim,63.4297,10.3933,194860.0,Norway,Europe
+Sandvika,59.8833,10.5167,115543.0,Norway,Europe
+Kristiansand,58.1472,7.9972,113737.0,Norway,Europe
+Drammen,59.7378,10.205,109416.0,Norway,Europe
+Muscat,23.6139,58.5922,1421409.0,Oman,Asia
+Bawshar,23.5333,58.3833,383257.0,Oman,Asia
+As Sib,23.6703,58.1891,237816.0,Oman,Asia
+Matrah,23.6167,58.5667,214901.0,Oman,Asia
+Salalah,17.0197,54.0897,178469.0,Oman,Asia
+As Suwayq,23.8494,57.4386,170000.0,Oman,Asia
+As Suwayhirah as Sahil,24.362,56.7344,151349.0,Oman,Asia
+Ar Rustaq,23.3908,57.4244,120000.0,Oman,Asia
+Al Mudaybi,22.5667,58.1167,115040.0,Oman,Asia
+`Ibri,23.2325,56.4973,101640.0,Oman,Asia
+Karachi,24.86,67.01,15738000.0,Pakistan,Asia
+Lahore,31.5497,74.3436,12306000.0,Pakistan,Asia
+Faisalabad,31.4167,73.0911,3203846.0,Pakistan,Asia
+Rawalpindi,33.6,73.0333,2098231.0,Pakistan,Asia
+Gujranwala,32.1567,74.19,2027001.0,Pakistan,Asia
+Peshawar,34.0144,71.5675,1970042.0,Pakistan,Asia
+Multan,30.1978,71.4697,1871843.0,Pakistan,Asia
+Saidu Sharif,34.75,72.3572,1860310.0,Pakistan,Asia
+Hyderabad City,25.3792,68.3683,1732693.0,Pakistan,Asia
+Islamabad,33.6931,73.0639,1014825.0,Pakistan,Asia
+Quetta,30.1833,67.0,1001205.0,Pakistan,Asia
+Bahawalpur,29.3956,71.6836,762111.0,Pakistan,Asia
+Sargodha,32.0836,72.6711,659862.0,Pakistan,Asia
+Sialkot City,32.4925,74.5311,655852.0,Pakistan,Asia
+Sukkur,27.7061,68.8483,499900.0,Pakistan,Asia
+Panama City,8.9833,-79.5167,1500189.0,Panama,North America
+San Miguelito,9.033,-79.5,315019.0,Panama,North America
+Colon,9.3572,-79.8986,204000.0,Panama,North America
+David,8.4333,-82.4333,144858.0,Panama,North America
+Port Moresby,-9.4789,147.1494,700000.0,Papua New Guinea,Oceania
+Lae,-6.7303,147.0008,193000.0,Papua New Guinea,Oceania
+Asuncion,-25.3,-57.6333,524190.0,Paraguay,South America
+Ciudad del Este,-25.5167,-54.6167,320782.0,Paraguay,South America
+San Lorenzo,-25.34,-57.52,287977.0,Paraguay,South America
+Luque,-25.27,-57.4872,263604.0,Paraguay,South America
+Capiata,-25.35,-57.42,224152.0,Paraguay,South America
+Fernando de la Mora,-25.32,-57.54,183390.0,Paraguay,South America
+Nemby,-25.3935,-57.5443,126817.0,Paraguay,South America
+Pedro Juan Caballero,-22.53,-55.75,115583.0,Paraguay,South America
+Presidente Franco,-25.5333,-54.6167,104677.0,Paraguay,South America
+Itaugua,-25.3833,-57.3333,100456.0,Paraguay,South America
+Lima,-12.06,-77.0375,10320000.0,Peru,South America
+Callao,-12.0333,-77.1333,1129854.0,Peru,South America
+Arequipa,-16.4,-71.5333,1008290.0,Peru,South America
+Trujillo,-8.112,-79.0288,919899.0,Peru,South America
+Chiclayo,-6.763,-79.8366,552508.0,Peru,South America
+Chimbote,-9.0745,-78.5936,497875.0,Peru,South America
+Piura,-5.2,-80.6333,473025.0,Peru,South America
+Cusco,-13.525,-71.9722,428450.0,Peru,South America
+Huancayo,-12.0667,-75.2167,378203.0,Peru,South America
+Iquitos,-3.75,-73.25,377609.0,Peru,South America
+Pucallpa,-8.3833,-74.55,326040.0,Peru,South America
+Juliaca,-15.4833,-70.1333,307417.0,Peru,South America
+Tacna,-18.0147,-70.2489,286240.0,Peru,South America
+Ica,-14.0667,-75.7333,282407.0,Peru,South America
+Tarapoto,-6.4833,-76.3667,240453.0,Peru,South America
+Manila,14.5958,120.9772,24922000.0,Philippines,Asia
+Quezon City,14.63,121.03,2960048.0,Philippines,Asia
+Davao,7.0667,125.6,1776949.0,Philippines,Asia
+Caloocan City,14.65,120.97,1661584.0,Philippines,Asia
+Canagatan,18.0,121.8,1273219.0,Philippines,Asia
+Zamboanga City,6.9042,122.0761,977234.0,Philippines,Asia
+Cebu City,10.32,123.75,964169.0,Philippines,Asia
+Antipolo,14.5842,121.1763,887399.0,Philippines,Asia
+Taguig City,14.52,121.05,886722.0,Philippines,Asia
+Pasig City,14.575,121.0833,803159.0,Philippines,Asia
+Cagayan de Oro,8.4833,124.65,728402.0,Philippines,Asia
+Valenzuela,14.7,120.98,714978.0,Philippines,Asia
+Dasmarinas,14.3294,120.9367,703141.0,Philippines,Asia
+General Santos,6.1167,125.1667,697315.0,Philippines,Asia
+City of Paranaque,14.47,121.02,689992.0,Philippines,Asia
+Warsaw,52.23,21.0111,1860281.0,Poland,Europe
+Krakow,50.0614,19.9372,800653.0,Poland,Europe
+Lodz,51.7769,19.4547,690422.0,Poland,Europe
+Wroclaw,51.11,17.0325,672929.0,Poland,Europe
+Poznan,52.4083,16.9336,546859.0,Poland,Europe
+Gdansk,54.3475,18.6453,486022.0,Poland,Europe
+Szczecin,53.4325,14.5481,403833.0,Poland,Europe
+Bydgoszcz,53.1219,18.0003,346739.0,Poland,Europe
+Lublin,51.25,22.5667,339850.0,Poland,Europe
+Bielsko-Biala,49.8225,19.0444,325000.0,Poland,Europe
+Bialystok,53.1353,23.1456,297554.0,Poland,Europe
+Katowice,50.2667,19.0167,285711.0,Poland,Europe
+Gdynia,54.5,18.5333,247672.0,Poland,Europe
+Czestochowa,50.8,19.1167,223322.0,Poland,Europe
+Radom,51.4036,21.1567,219703.0,Poland,Europe
+Lisbon,38.7253,-9.15,2719000.0,Portugal,Europe
+Porto,41.1621,-8.622,1278210.0,Portugal,Europe
+Aves,41.44,-8.3,425411.0,Portugal,Europe
+Sintra,38.7992,-9.3883,377835.0,Portugal,Europe
+Vila Nova de Gaia,41.1333,-8.6167,302295.0,Portugal,Europe
+Cascais,38.7,-9.4167,206479.0,Portugal,Europe
+Loures,38.8333,-9.1667,205054.0,Portugal,Europe
+Braga,41.5503,-8.42,181494.0,Portugal,Europe
+Almada,38.6803,-9.1583,177268.0,Portugal,Europe
+Matosinhos,41.1833,-8.7,175478.0,Portugal,Europe
+Amadora,38.7333,-9.2333,175136.0,Portugal,Europe
+Oeiras,38.6833,-9.3167,172120.0,Portugal,Europe
+Gondomar,41.15,-8.5333,168027.0,Portugal,Europe
+Seixal,38.65,-9.1,158269.0,Portugal,Europe
+Guimaraes,41.45,-8.3,158124.0,Portugal,Europe
+San Juan,18.3985,-66.061,1915105.0,Puerto Rico,North America
+Aguadilla,18.4382,-67.1537,260331.0,Puerto Rico,North America
+Bayamon,18.3794,-66.1635,170028.0,Puerto Rico,North America
+Carolina,18.4054,-65.9792,139735.0,Puerto Rico,North America
+Ponce,18.0127,-66.6212,124719.0,Puerto Rico,North America
+Arecibo,18.4491,-66.7387,123499.0,Puerto Rico,North America
+San German,18.0827,-67.046,103747.0,Puerto Rico,North America
+Doha,25.2867,51.5333,1186023.0,Qatar,Asia
+Ar Rayyan,25.25,51.4,605712.0,Qatar,Asia
+Al Khawr,25.69,51.51,202031.0,Qatar,Asia
+Ash Shihaniyah,25.3722,51.2047,161240.0,Qatar,Asia
+Saint-Denis,-20.8789,55.4481,315080.0,Reunion,Africa
+Bucharest,44.4325,26.1039,1883425.0,Romania,Europe
+Cluj-Napoca,46.7667,23.5833,324576.0,Romania,Europe
+Timisoara,45.7597,21.23,319279.0,Romania,Europe
+Brasov,45.6667,25.6167,290743.0,Romania,Europe
+Iasi,47.1622,27.5889,290422.0,Romania,Europe
+Constanta,44.1667,28.6333,283872.0,Romania,Europe
+Craiova,44.3333,23.8167,269506.0,Romania,Europe
+Galati,45.4233,28.0425,249432.0,Romania,Europe
+Ploiesti,44.9411,26.0225,209945.0,Romania,Europe
+Oradea,47.0722,21.9211,196367.0,Romania,Europe
+Braila,45.2692,27.9575,180302.0,Romania,Europe
+Arad,46.175,21.3125,159074.0,Romania,Europe
+Pitesti,44.8606,24.8678,155383.0,Romania,Europe
+Sibiu,45.7928,24.1519,147245.0,Romania,Europe
+Bacau,46.5833,26.9167,144307.0,Romania,Europe
+Moscow,55.7558,37.6178,17332000.0,Russia,Europe
+Saint Petersburg,59.95,30.3167,5384342.0,Russia,Europe
+Novosibirsk,55.0333,82.9167,1625631.0,Russia,Europe
+Yekaterinburg,56.8356,60.6128,1468833.0,Russia,Europe
+Nizhniy Novgorod,56.3269,44.0075,1264075.0,Russia,Europe
+Kazan,55.7964,49.1089,1243500.0,Russia,Europe
+Chelyabinsk,55.15,61.4,1202371.0,Russia,Europe
+Omsk,54.9667,73.3833,1178391.0,Russia,Europe
+Samara,53.2028,50.1408,1169719.0,Russia,Europe
+Rostov,47.2333,39.7,1137704.0,Russia,Europe
+Ufa,54.7261,55.9475,1115560.0,Russia,Europe
+Krasnoyarsk,56.0089,92.8719,1083865.0,Russia,Europe
+Voronezh,51.6717,39.2106,1050602.0,Russia,Europe
+Perm,58.0139,56.2489,1048005.0,Russia,Europe
+Volgograd,48.7086,44.5147,1015586.0,Russia,Europe
+Kigali,-1.9536,30.0606,1156663.0,Rwanda,Africa
+Nyanza,-2.35,29.7333,225209.0,Rwanda,Africa
+Gisenyi,-1.7,29.25,136830.0,Rwanda,Africa
+Riyadh,24.6333,46.7167,7237000.0,Saudi Arabia,Asia
+Jeddah,21.5433,39.1728,3976000.0,Saudi Arabia,Asia
+Mecca,21.4225,39.8233,1675368.0,Saudi Arabia,Asia
+Medina,24.47,39.61,1180770.0,Saudi Arabia,Asia
+Ad Dammam,26.4333,50.1,903312.0,Saudi Arabia,Asia
+Al Hufuf,25.3833,49.5833,660788.0,Saudi Arabia,Asia
+Hafr al Batin,28.4342,45.9636,600000.0,Saudi Arabia,Asia
+Al Hillah,23.4895,46.7564,594605.0,Saudi Arabia,Asia
+At Ta'if,21.2751,40.4062,579970.0,Saudi Arabia,Asia
+Tabuk,28.3972,36.5789,547957.0,Saudi Arabia,Asia
+Al Qatif,26.556,49.996,524182.0,Saudi Arabia,Asia
+Buraydah,26.3333,43.9667,467410.0,Saudi Arabia,Asia
+Al Jubayl,27.0,49.6544,392948.0,Saudi Arabia,Asia
+Ha'il,27.5167,41.6833,385257.0,Saudi Arabia,Asia
+Al Kharj,24.1483,47.305,376325.0,Saudi Arabia,Asia
+Dakar,14.6928,-17.4467,1438725.0,Senegal,Africa
+Pikine,14.75,-17.4,1170791.0,Senegal,Africa
+Touba,14.8667,-15.8833,529176.0,Senegal,Africa
+Thies,14.7833,-16.9167,394544.0,Senegal,Africa
+Guediawaye,14.7833,-17.4,329659.0,Senegal,Africa
+Dagana,16.4833,-15.6,241695.0,Senegal,Africa
+Rufisque,14.7167,-17.2667,221066.0,Senegal,Africa
+Ziguinchor,12.5833,-16.2667,205294.0,Senegal,Africa
+Saint-Louis,16.0333,-16.5,176000.0,Senegal,Africa
+Kaolack,14.1389,-16.0764,172305.0,Senegal,Africa
+Diourbel,14.655,-16.2314,100445.0,Senegal,Africa
+Belgrade,44.82,20.46,1378682.0,Serbia,Europe
+Novi Sad,45.2542,19.8425,380000.0,Serbia,Europe
+Nis,43.3192,21.8961,183164.0,Serbia,Europe
+Zemun,44.85,20.4,161596.0,Serbia,Europe
+Kragujevac,44.0142,20.9394,150623.0,Serbia,Europe
+Freetown,8.4844,-13.2344,951000.0,Sierra Leone,Africa
+Bo,7.9564,-11.74,233684.0,Sierra Leone,Africa
+Kenema,7.8758,-11.1908,188463.0,Sierra Leone,Africa
+Koidu,8.6439,-10.9717,124662.0,Sierra Leone,Africa
+Singapore,1.3,103.8,5983000.0,Singapore,Asia
+Bratislava,48.1439,17.1097,475503.0,Slovakia,Europe
+Kosice,48.7167,21.25,238593.0,Slovakia,Europe
+Petrzalka,48.1333,17.1167,114000.0,Slovakia,Europe
+Zilina,49.2228,18.74,108000.0,Slovakia,Europe
+Ljubljana,46.0514,14.5061,286745.0,Slovenia,Europe
+Mogadishu,2.0392,45.3419,4249083.0,Somalia,Africa
+Boosaaso,11.2886,49.1819,2000000.0,Somalia,Africa
+Hargeysa,9.5631,44.0675,1200000.0,Somalia,Africa
+Baidoa,3.1167,43.65,950000.0,Somalia,Africa
+Gaalkacyo,6.7697,47.4308,950000.0,Somalia,Africa
+Baardheere,2.3333,42.2833,755500.0,Somalia,Africa
+Burco,9.5279,45.5345,750211.0,Somalia,Africa
+Cadaado,6.1403,46.6256,534023.0,Somalia,Africa
+Marka,1.6833,44.75,499000.0,Somalia,Africa
+Berbera,10.4356,45.0164,478000.0,Somalia,Africa
+Garoowe,8.4,48.4667,385000.0,Somalia,Africa
+Ceel Baraf,3.2073,45.7587,384630.0,Somalia,Africa
+Qardho,9.5,49.0833,365000.0,Somalia,Africa
+Buurhakaba,2.7833,44.0833,360795.0,Somalia,Africa
+Kismaayo,-0.3581,42.5453,358000.0,Somalia,Africa
+Johannesburg,-26.2044,28.0456,8000000.0,South Africa,Africa
+Soweto,-26.2678,27.8585,1271628.0,South Africa,Africa
+Vereeniging,-26.6736,27.9319,1074000.0,South Africa,Africa
+Pietermaritzburg,-29.6167,30.3833,750845.0,South Africa,Africa
+Pretoria,-25.7461,28.1881,741651.0,South Africa,Africa
+Durban,-29.8833,31.05,595061.0,South Africa,Africa
+Rustenburg,-25.6667,27.2428,549575.0,South Africa,Africa
+Kimberley,-28.7383,24.7639,500757.0,South Africa,Africa
+Katlehong,-26.3333,28.15,467890.0,South Africa,Africa
+Cape Town,-33.9253,18.4239,433688.0,South Africa,Africa
+Welkom,-27.9831,26.7208,431944.0,South Africa,Africa
+Khayelitsha,-34.0403,18.6778,391749.0,South Africa,Africa
+Newcastle,-27.7464,29.9328,363236.0,South Africa,Africa
+East London,-33.0175,27.9047,338627.0,South Africa,Africa
+Randburg,-26.0936,28.0064,337053.0,South Africa,Africa
+Seoul,37.56,126.99,23016000.0,South Korea,Asia
+Busan,35.18,129.075,3453198.0,South Korea,Asia
+Incheon,37.4833,126.6333,2936117.0,South Korea,Asia
+Daegu,35.8717,128.6017,2461002.0,South Korea,Asia
+Gwangju,35.1653,126.8486,1490092.0,South Korea,Asia
+Daejeon,36.351,127.385,1475221.0,South Korea,Asia
+Suwon,37.2667,127.0167,1234300.0,South Korea,Asia
+Ulsan,35.55,129.3167,1166033.0,South Korea,Asia
+Tongjin,37.2333,127.2,1076369.0,South Korea,Asia
+Goyang,37.65,126.8,1061929.0,South Korea,Asia
+Changwon,35.2708,128.6631,1046054.0,South Korea,Asia
+Songnam,37.4333,127.15,948757.0,South Korea,Asia
+Bucheon,37.5,126.7833,867678.0,South Korea,Asia
+Cheongju,36.6333,127.4833,833276.0,South Korea,Asia
+Yanggok,37.6333,127.2167,713321.0,South Korea,Asia
+Juba,4.85,31.6,525953.0,South Sudan,Africa
+Bor,6.2125,31.5608,315351.0,South Sudan,Africa
+Kajo Kaji,3.8492,31.6578,196000.0,South Sudan,Africa
+Yei,4.0904,30.68,185000.0,South Sudan,Africa
+Magwe,4.1333,32.3,169826.0,South Sudan,Africa
+Wau,7.7,28.0,163442.0,South Sudan,Africa
+Malakal,9.55,31.65,147450.0,South Sudan,Africa
+Leer,8.2979,30.1475,100722.0,South Sudan,Africa
+Madrid,40.4169,-3.7033,6211000.0,Spain,Europe
+Barcelona,41.3825,2.1769,4800000.0,Spain,Europe
+Sevilla,37.24,-5.99,1100000.0,Spain,Europe
+Malaga,36.7194,-4.42,967250.0,Spain,Europe
+Valencia,39.47,-0.3764,792492.0,Spain,Europe
+Bilbao,43.2569,-2.9236,775000.0,Spain,Europe
+Zaragoza,41.65,-0.8833,675301.0,Spain,Europe
+Murcia,37.9861,-1.1303,672773.0,Spain,Europe
+Palma,39.5667,2.65,550000.0,Spain,Europe
+Las Palmas,28.1272,-15.4314,378797.0,Spain,Europe
+Alicante,38.3453,-0.4831,338577.0,Spain,Europe
+Cordoba,37.8845,-4.7796,322071.0,Spain,Europe
+Valladolid,41.6528,-4.7236,297775.0,Spain,Europe
+Vigo,42.2314,-8.7124,293837.0,Spain,Europe
+Gijon,43.5333,-5.7,268896.0,Spain,Europe
+Colombo,6.9344,79.8428,2323826.0,Sri Lanka,Asia
+Mount Lavinia,6.8731,79.8758,245974.0,Sri Lanka,Asia
+Kesbewa,6.7953,79.9386,243842.0,Sri Lanka,Asia
+Moratuwa,6.7991,79.8767,200000.0,Sri Lanka,Asia
+Maharagama,6.8494,79.9236,195355.0,Sri Lanka,Asia
+Ratnapura,6.6806,80.4022,165998.0,Sri Lanka,Asia
+Kandy,7.2964,80.635,161000.0,Sri Lanka,Asia
+Negombo,7.2111,79.8386,142136.0,Sri Lanka,Asia
+Batticaloa,7.7167,81.7,129222.0,Sri Lanka,Asia
+Sri Jayewardenepura Kotte,6.9108,79.8878,115826.0,Sri Lanka,Asia
+Mawanella,7.2534,80.4466,111727.0,Sri Lanka,Asia
+Kotmale,7.0167,80.5833,107523.0,Sri Lanka,Asia
+Kalmunai,7.4167,81.8167,106780.0,Sri Lanka,Asia
+Kilinochchi,9.4004,80.3999,103717.0,Sri Lanka,Asia
+Hikkaduwa,6.1472,80.1103,101342.0,Sri Lanka,Asia
+Khartoum,15.5006,32.56,7869000.0,Sudan,Africa
+Omdurman,15.65,32.4833,2805396.0,Sudan,Africa
+Al Mijlad,11.0339,27.74,985000.0,Sudan,Africa
+Khartoum North,15.6333,32.6333,936349.0,Sudan,Africa
+Port Sudan,19.6167,37.2167,579942.0,Sudan,Africa
+Kassala,15.45,36.4,536009.0,Sudan,Africa
+Nyala,12.05,24.8833,492984.0,Sudan,Africa
+El Obeid,13.1833,30.2167,418280.0,Sudan,Africa
+Gedaref,14.0333,35.3833,354927.0,Sudan,Africa
+Wad Medani,14.4,33.5167,345290.0,Sudan,Africa
+Kusti,13.1667,32.6667,345068.0,Sudan,Africa
+Ed Daein,11.4608,26.1283,264734.0,Sudan,Africa
+El Fasher,13.6306,25.35,263243.0,Sudan,Africa
+Singa,13.15,33.9333,259000.0,Sudan,Africa
+El Geneina,13.45,22.45,252744.0,Sudan,Africa
+Paramaribo,5.8522,-55.2039,223757.0,Suriname,South America
+Stockholm,59.3294,18.0686,1611776.0,Sweden,Europe
+Gothenburg,57.7075,11.9675,607882.0,Sweden,Europe
+Malmo,55.6058,13.0358,351749.0,Sweden,Europe
+Uppsala,59.8581,17.6447,166698.0,Sweden,Europe
+Norrkoping,58.6,16.2,137326.0,Sweden,Europe
+Uppsala,59.8601,17.64,133117.0,Sweden,Europe
+Vasteras,59.6161,16.5528,128660.0,Sweden,Europe
+Orebro,59.2739,15.2075,126604.0,Sweden,Europe
+Linkoping,58.4158,15.6253,115682.0,Sweden,Europe
+Helsingborg,56.05,12.7167,113828.0,Sweden,Europe
+Jonkoping,57.7828,14.1606,112766.0,Sweden,Europe
+Vimmerby,57.6667,15.85,100934.0,Sweden,Europe
+Zurich,47.3744,8.5411,436332.0,Switzerland,Europe
+Geneva,46.2017,6.1469,201818.0,Switzerland,Europe
+Basel,47.5547,7.5906,177827.0,Switzerland,Europe
+Lausanne,46.5198,6.6335,139111.0,Switzerland,Europe
+Bern,46.9481,7.4475,133883.0,Switzerland,Europe
+Winterthur,47.4989,8.7286,109775.0,Switzerland,Europe
+Aleppo,36.2,37.16,1916781.0,Syria,Asia
+Damascus,33.5131,36.2919,1754000.0,Syria,Asia
+Homs,34.7333,36.7167,775404.0,Syria,Asia
+Latakia,35.5167,35.7833,700000.0,Syria,Asia
+Hamah,35.1333,36.75,696863.0,Syria,Asia
+Ar Raqqah,35.95,39.01,299824.0,Syria,Asia
+Dayr az Zawr,35.3333,40.15,271800.0,Syria,Asia
+Al Hasakah,36.5117,40.7422,188160.0,Syria,Asia
+Al Qamishli,37.05,41.22,184231.0,Syria,Asia
+Idlib,35.9333,36.6333,165000.0,Syria,Asia
+Dar`a,32.6189,36.1021,146481.0,Syria,Asia
+Qabr as Sitt,33.4472,36.3361,136427.0,Syria,Asia
+Duma,33.5711,36.4011,123494.0,Syria,Asia
+Jaramana,33.4833,36.35,114363.0,Syria,Asia
+As Salamiyah,35.0118,37.0525,110683.0,Syria,Asia
+Taipei,25.0375,121.5625,9078000.0,Taiwan,Asia
+Taichung,24.1439,120.6794,3033885.0,Taiwan,Asia
+Kaohsiung,22.615,120.2975,2733566.0,Taiwan,Asia
+Tainan,22.9833,120.1833,1874686.0,Taiwan,Asia
+Zhongli,24.965,121.2168,1632616.0,Taiwan,Asia
+Changhua,24.0667,120.5333,750000.0,Taiwan,Asia
+Pingtung,22.6761,120.4942,503530.0,Taiwan,Asia
+Hsinchu,24.8167,120.9833,499348.0,Taiwan,Asia
+Taoyuan District,24.9913,121.3143,443273.0,Taiwan,Asia
+Keelung,25.1333,121.7333,370155.0,Taiwan,Asia
+Chiayi,23.48,120.4497,251938.0,Taiwan,Asia
+Zhubei,24.8333,121.0119,211746.0,Taiwan,Asia
+Pingzhen,24.9439,121.2161,201632.0,Taiwan,Asia
+Yangmei,24.9167,121.15,175000.0,Taiwan,Asia
+Bade,24.9575,121.2989,172065.0,Taiwan,Asia
+Dushanbe,38.5367,68.78,863400.0,Tajikistan,Asia
+Khujand,40.2833,69.6333,770000.0,Tajikistan,Asia
+Konibodom,40.2833,70.4167,219000.0,Tajikistan,Asia
+Kulob,37.9092,69.7819,106300.0,Tajikistan,Asia
+Dar es Salaam,-6.8161,39.2803,7962000.0,Tanzania,Africa
+Mwanza,-2.5167,32.9,706453.0,Tanzania,Africa
+Mbeya,-8.9,33.45,467000.0,Tanzania,Africa
+Arusha,-3.3667,36.6833,416442.0,Tanzania,Africa
+Tanga,-5.0667,39.1,243580.0,Tanzania,Africa
+Kasulu,-4.58,30.1,234452.0,Tanzania,Africa
+Dodoma,-6.1731,35.7419,213636.0,Tanzania,Africa
+Morogoro,-6.8242,37.6633,207000.0,Tanzania,Africa
+Zanzibar,-6.165,39.199,205870.0,Tanzania,Africa
+Tabora,-5.0167,32.8,160608.0,Tanzania,Africa
+Bariadi,-2.7919,33.9894,155620.0,Tanzania,Africa
+Iringa,-7.77,35.69,151345.0,Tanzania,Africa
+Singida,-4.8167,34.75,150379.0,Tanzania,Africa
+Sumbawanga,-7.9667,31.6167,147483.0,Tanzania,Africa
+Moshi,-3.3349,37.3404,144739.0,Tanzania,Africa
+Bangkok,13.7525,100.4942,18007000.0,Thailand,Asia
+Chiang Mai,18.7953,98.9986,1198000.0,Thailand,Asia
+Nonthaburi,13.8667,100.5167,255671.0,Thailand,Asia
+Pak Kret,13.9125,100.4978,184501.0,Thailand,Asia
+Hat Yai,7.0167,100.4667,159130.0,Thailand,Asia
+Nakhon Ratchasima,14.975,102.1,134440.0,Thailand,Asia
+Surat Thani,9.1397,99.3306,130703.0,Thailand,Asia
+Udon Thani,17.4167,102.75,130274.0,Thailand,Asia
+Ban Bang Pu Mai,13.5441,100.6175,120058.0,Thailand,Asia
+Khon Kaen,16.4333,102.8333,115928.0,Thailand,Asia
+Phatthaya,12.9357,100.889,115840.0,Thailand,Asia
+Nakhon Si Thammarat,8.4364,99.9631,106322.0,Thailand,Asia
+Ban Mangkon,13.6138,100.6104,102291.0,Thailand,Asia
+Lome,6.1319,1.2228,837437.0,Togo,Africa
+Sokode,8.9833,1.1333,113000.0,Togo,Africa
+Kpalime,6.9,0.6333,100479.0,Togo,Africa
+Chaguanas,10.5167,-61.4,101297.0,Trinidad and Tobago,North America
+Tunis,36.8064,10.1817,1056247.0,Tunisia,Africa
+Sidi Bouzid,35.0381,9.4858,429912.0,Tunisia,Africa
+Sfax,34.74,10.76,272801.0,Tunisia,Africa
+Sousse,35.8333,10.6333,221530.0,Tunisia,Africa
+Kairouan,35.6772,10.1008,186653.0,Tunisia,Africa
+Metouia,33.9667,10.0,170000.0,Tunisia,Africa
+Kebili,33.705,8.965,163257.0,Tunisia,Africa
+Bizerte,37.2778,9.8639,142966.0,Tunisia,Africa
+Sukrah,36.8833,10.25,129693.0,Tunisia,Africa
+Gabes,33.8833,10.1167,116323.0,Tunisia,Africa
+Ariana,36.8625,10.1956,114486.0,Tunisia,Africa
+Sakiet ed Daier,34.8,10.78,113776.0,Tunisia,Africa
+Jendouba,36.5,8.7833,113116.0,Tunisia,Africa
+Gafsa,34.4167,8.7833,111170.0,Tunisia,Africa
+Msaken,35.7333,10.5833,110000.0,Tunisia,Africa
+Istanbul,41.0136,28.955,16079000.0,Turkey,Asia
+Ankara,39.93,32.85,5503985.0,Turkey,Asia
+Izmir,38.42,27.14,4320519.0,Turkey,Asia
+Bursa,40.1833,29.05,2901396.0,Turkey,Asia
+Antalya,36.8874,30.7075,2426356.0,Turkey,Asia
+Konya,37.8667,32.4833,2232374.0,Turkey,Asia
+Gaziantep,37.0628,37.3792,2028563.0,Turkey,Asia
+Sanliurfa,37.1583,38.7917,1985753.0,Turkey,Asia
+Mersin,36.8,34.6333,1814468.0,Turkey,Asia
+Adana,37.0,35.3213,1765981.0,Turkey,Asia
+Diyarbakir,37.91,40.24,1732396.0,Turkey,Asia
+Kayseri,38.7225,35.4875,1389680.0,Turkey,Asia
+Samsun,41.2903,36.3336,1335716.0,Turkey,Asia
+Akcaabat,41.0167,39.55,1215351.0,Turkey,Asia
+Denizli,37.7667,29.0833,1027782.0,Turkey,Asia
+Ashgabat,37.95,58.3833,828100.0,Turkmenistan,Asia
+Turkmenabat,39.0833,63.5667,408906.0,Turkmenistan,Asia
+Dasoguz,41.8333,59.9667,227184.0,Turkmenistan,Asia
+Mary,37.6,61.8333,208682.0,Turkmenistan,Asia
+Kampala,0.3136,32.5811,1680600.0,Uganda,Africa
+Mbale,1.0806,34.175,586300.0,Uganda,Africa
+Nansana,0.3639,32.5286,532800.0,Uganda,Africa
+Arua,3.0353,30.9108,250000.0,Uganda,Africa
+Kasangati,0.4378,32.6025,207800.0,Uganda,Africa
+Mbarara,-0.6133,30.6583,195013.0,Uganda,Africa
+Njeru,0.4311,33.1478,178800.0,Uganda,Africa
+Mukono,0.3533,32.7553,161996.0,Uganda,Africa
+Gulu,2.7817,32.2992,152276.0,Uganda,Africa
+Tororo,0.6928,34.1811,150000.0,Uganda,Africa
+Lira,2.2472,32.9,135445.0,Uganda,Africa
+Hoima,1.4319,31.3525,122700.0,Uganda,Africa
+Kasese,0.1867,30.0881,115400.0,Uganda,Africa
+Lugazi,0.3833,32.9242,114163.0,Uganda,Africa
+Masindi,1.6836,31.7222,110500.0,Uganda,Africa
+Kyiv,50.45,30.5233,2963199.0,Ukraine,Europe
+Kharkiv,49.9925,36.2311,1446107.0,Ukraine,Europe
+Odesa,46.4775,30.7326,1017699.0,Ukraine,Europe
+Dnipro,48.4675,35.04,980948.0,Ukraine,Europe
+Donetsk,48.0028,37.8053,929063.0,Ukraine,Europe
+Zaporizhzhia,47.85,35.1175,741717.0,Ukraine,Europe
+Lviv,49.8425,24.0322,724314.0,Ukraine,Europe
+Kryvyi Rih,47.9086,33.3433,629695.0,Ukraine,Europe
+Sevastopol,44.605,33.5225,522057.0,Ukraine,Europe
+Mykolaiv,46.975,31.995,498748.0,Ukraine,Europe
+Mariupol,47.0958,37.5494,449498.0,Ukraine,Europe
+Luhansk,48.5667,39.3333,417990.0,Ukraine,Europe
+Vinnytsia,49.2333,28.4833,371855.0,Ukraine,Europe
+Makiivka,48.0556,37.9611,343158.0,Ukraine,Europe
+Simferopol,44.9484,34.1,341799.0,Ukraine,Europe
+Dubai,25.2631,55.2972,3331420.0,United Arab Emirates,Asia
+Abu Dhabi,24.4667,54.3667,1483000.0,United Arab Emirates,Asia
+Sharjah,25.3575,55.3908,1247749.0,United Arab Emirates,Asia
+Al `Ayn,24.2075,55.7447,766936.0,United Arab Emirates,Asia
+`Ajman,25.4136,55.4456,490035.0,United Arab Emirates,Asia
+Ra's al Khaymah,25.7667,55.95,115949.0,United Arab Emirates,Asia
+London,51.5072,-0.1275,11262000.0,United Kingdom,Europe
+Birmingham,52.48,-1.9025,2919600.0,United Kingdom,Europe
+Manchester,53.4794,-2.2453,2705000.0,United Kingdom,Europe
+Liverpool,53.4075,-2.9919,864122.0,United Kingdom,Europe
+Portsmouth,50.8058,-1.0872,855679.0,United Kingdom,Europe
+Southampton,50.9025,-1.4042,855569.0,United Kingdom,Europe
+Leeds,53.8003,-1.5497,789194.0,United Kingdom,Europe
+Nottingham,52.9533,-1.15,768638.0,United Kingdom,Europe
+Glasgow,55.8611,-4.25,626410.0,United Kingdom,Europe
+Bristol,51.4536,-2.5975,567111.0,United Kingdom,Europe
+Sheffield,53.3808,-1.4703,518090.0,United Kingdom,Europe
+Leicester,52.6344,-1.1319,508916.0,United Kingdom,Europe
+Edinburgh,55.9533,-3.1892,488050.0,United Kingdom,Europe
+Caerdydd,51.4817,-3.1792,479000.0,United Kingdom,Europe
+Worthing,50.8147,-0.3714,474485.0,United Kingdom,Europe
+New York,40.6943,-73.9249,18972871.0,United States,North America
+Los Angeles,34.1141,-118.4068,12121244.0,United States,North America
+Chicago,41.8375,-87.6866,8595181.0,United States,North America
+Miami,25.784,-80.2101,5711945.0,United States,North America
+Dallas,32.7935,-96.7667,5668165.0,United States,North America
+Houston,29.786,-95.3885,5650910.0,United States,North America
+Philadelphia,40.0077,-75.1339,5512873.0,United States,North America
+Atlanta,33.7628,-84.422,5046555.0,United States,North America
+Washington,38.9047,-77.0163,4810669.0,United States,North America
+Boston,42.3188,-71.0852,4208580.0,United States,North America
+Phoenix,33.5722,-112.0892,4047095.0,United States,North America
+Detroit,42.3834,-83.1024,3522856.0,United States,North America
+Seattle,47.6211,-122.3244,3438221.0,United States,North America
+San Francisco,37.7558,-122.4449,3290197.0,United States,North America
+San Diego,32.8313,-117.1222,3084174.0,United States,North America
+Montevideo,-34.8836,-56.1819,1719453.0,Uruguay,South America
+Salto,-31.3833,-57.95,124878.0,Uruguay,South America
+Ciudad de la Costa,-34.8167,-55.95,112449.0,Uruguay,South America
+Maldonado,-34.9,-54.95,104032.0,Uruguay,South America
+Tashkent,41.3111,69.2797,2571668.0,Uzbekistan,Asia
+Namangan,41.0011,71.6683,626120.0,Uzbekistan,Asia
+Samarkand,39.6547,66.9758,546303.0,Uzbekistan,Asia
+Andijon,40.7833,72.3333,441700.0,Uzbekistan,Asia
+Qo`qon,40.5286,70.9425,350000.0,Uzbekistan,Asia
+Nukus,42.4667,59.6,319583.0,Uzbekistan,Asia
+Farg`ona,40.3864,71.7864,288850.0,Uzbekistan,Asia
+Bukhara,39.7667,64.4333,280187.0,Uzbekistan,Asia
+Qarshi,38.8667,65.8,274891.0,Uzbekistan,Asia
+Denov,38.2667,67.9,217274.0,Uzbekistan,Asia
+Marg`ilon,40.4711,71.7247,215400.0,Uzbekistan,Asia
+Iskandar,41.5581,69.7047,195633.0,Uzbekistan,Asia
+Jizzax,40.1158,67.8422,163200.0,Uzbekistan,Asia
+Chirchiq,41.4667,69.5833,159400.0,Uzbekistan,Asia
+Urganch,41.55,60.6333,150000.0,Uzbekistan,Asia
+Maracaibo,10.6333,-71.6333,2658355.0,Venezuela,South America
+Caracas,10.4806,-66.9036,2245744.0,Venezuela,South America
+Valencia,10.1667,-68.0,1484430.0,Venezuela,South America
+Barquisimeto,10.0678,-69.3467,1059092.0,Venezuela,South America
+Barinas,8.6333,-70.2,816264.0,Venezuela,South America
+Ciudad Guayana,8.3667,-62.65,751331.0,Venezuela,South America
+Catia La Mar,10.6,-67.0333,661897.0,Venezuela,South America
+Ciudad Bolivar,8.1219,-63.55,567953.0,Venezuela,South America
+Santa Teresa del Tuy,10.2333,-66.65,525321.0,Venezuela,South America
+Maturin,9.7423,-63.1889,514046.0,Venezuela,South America
+Barcelona,10.1333,-64.6833,448016.0,Venezuela,South America
+Maracay,10.2469,-67.5958,407109.0,Venezuela,South America
+Cumana,10.45,-64.1667,374706.0,Venezuela,South America
+Petare,10.4833,-66.8167,369000.0,Venezuela,South America
+Cabimas,10.4,-71.4333,351735.0,Venezuela,South America
+Ho Chi Minh City,10.7756,106.7019,15136000.0,Vietnam,Asia
+Hanoi,21.0283,105.8542,8246600.0,Vietnam,Asia
+Haiphong,20.8651,106.6838,2103500.0,Vietnam,Asia
+Can Tho,10.0333,105.7833,1237300.0,Vietnam,Asia
+Bien Hoa,10.95,106.8167,1104000.0,Vietnam,Asia
+Thu Duc,10.8266,106.7609,1013795.0,Vietnam,Asia
+Quang Ha,15.9333,108.2667,1000000.0,Vietnam,Asia
+Hue,16.4667,107.5792,652572.0,Vietnam,Asia
+Tan An,10.905,106.6994,618984.0,Vietnam,Asia
+Bac Ninh,21.1833,106.05,520000.0,Vietnam,Asia
+Hai Duong,20.9397,106.3306,507469.0,Vietnam,Asia
+Vinh,18.6667,105.6667,490000.0,Vietnam,Asia
+Tan Uyen,11.0508,106.7636,466053.0,Vietnam,Asia
+Thu Dau Mot,10.9667,106.65,417000.0,Vietnam,Asia
+Thanh Hoa,19.8075,105.7764,393294.0,Vietnam,Asia
+Sanaa,15.3483,44.2064,2957000.0,Yemen,Asia
+Ta`izz,13.5789,44.0219,615467.0,Yemen,Asia
+Al Hudaydah,14.8022,42.9511,548433.0,Yemen,Asia
+Aden,12.8,45.0333,507355.0,Yemen,Asia
+Ibb,13.9667,44.1667,350864.0,Yemen,Asia
+Ibb,13.9759,44.1709,234837.0,Yemen,Asia
+Dhamar,14.55,44.4017,160114.0,Yemen,Asia
+Al Mukalla,14.5333,49.1333,144137.0,Yemen,Asia
+Al Mansurah,12.8531,44.9722,114931.0,Yemen,Asia
+Tarim,16.05,49.0,105552.0,Yemen,Asia
+Ash Shaykh `Uthman,12.8866,45.0279,105248.0,Yemen,Asia
+Lusaka,-15.4167,28.2833,2467563.0,Zambia,Africa
+Ndola,-12.9667,28.6333,528330.0,Zambia,Africa
+Kitwe,-12.8167,28.2,504194.0,Zambia,Africa
+Kafue,-15.7667,28.1833,219000.0,Zambia,Africa
+Mazabuka,-15.8467,27.7475,203219.0,Zambia,Africa
+Kasama,-10.2117,31.1783,200000.0,Zambia,Africa
+Mongu,-15.2775,23.1319,179585.0,Zambia,Africa
+Kashikishi,-9.3,28.7167,150000.0,Zambia,Africa
+Nchelenge,-9.3533,28.7403,147927.0,Zambia,Africa
+Chingola,-12.5333,27.85,147448.0,Zambia,Africa
+Livingstone,-17.85,25.8667,136897.0,Zambia,Africa
+Mansa,-11.2,28.8833,129185.0,Zambia,Africa
+Mufulira,-12.5356,28.2419,122336.0,Zambia,Africa
+Bwana Mkubwa,-12.9833,28.7,118464.0,Zambia,Africa
+Luanshya,-13.1333,28.4,117579.0,Zambia,Africa
+Harare,-17.8292,31.0522,2150000.0,Zimbabwe,Africa
+Bulawayo,-20.17,28.58,653337.0,Zimbabwe,Africa
+Chitungwiza,-17.9939,31.0481,371244.0,Zimbabwe,Africa
+Mutare,-18.9667,32.6333,224802.0,Zimbabwe,Africa
+Gweru,-19.4614,29.8022,141260.0,Zimbabwe,Africa
