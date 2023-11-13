@@ -1,0 +1,33 @@
+{
+    "Europe": {
+        "nb_cities": 47,
+        "nb_roads": 101,
+        "wagons_per_color": 48,
+        "length_path_per_color": 22,
+        "nb_wagon_cards_per_color": 12,
+        "nb_wagon_cards_rainbow": 14,
+        "nb_path_per_length": {
+            "8": 1,
+            "6": 2,
+            "4": 26,
+            "3": 25,
+            "2": 31,
+            "1": 3
+        },
+        "points_per_length_path": {
+            "8": 21,
+            "6": 15,
+            "5": 10,
+            "4": 7,
+            "3": 4,
+            "2": 2,
+            "1": 1
+        },
+        "nb_tunels": 17,
+        "total_lentgh_tunnels": 62,
+        "total_loco_in_paths": 15,
+        "nb_double_path": 11,
+        "nb_large_mission": 6,
+        "nb_small_mission": 40,
+    }
+}

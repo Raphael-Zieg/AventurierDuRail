@@ -69,3 +69,8 @@ Plusieurs agents de RL joueront contre les autres et nous observerons si la part
 * Système de récompenses : 
     * Les récompeneses seront assez simple c'est tout simplement les scores du jeu obtenu : le modèle devra apprendre le paramètre de l'apprentissage futur
 
+
+## Liste des prérequis pour créer une board :
+
+* Toutes les couleurs doivent avoir un de chemins ainsi qu'une longueur totale presque égale sauf le gris 
+

@@ -1,0 +1,102 @@
+ville1,ville2,longueur,couleur,specialType
+edinburgh,london,4,black,
+edinburgh,london,4,orange,
+amsterdam,london,2,grey,2 loco
+dieppe,london,2,grey,1 loco
+dieppe,london,2,grey,1 loco
+amsterdam,essen,3,yellow,
+amsterdam,bruxelles,1,black,
+dieppe,bruxelles,2,green,
+dieppe,paris,1,pink,
+dieppe,brest,2,orange,
+paris,brest,3,black,
+paris,pamplona,4,blue,
+paris,pamplona,4,green,
+paris,marseille,4,grey,
+paris,zurich,3,grey,tunnel
+paris,frankfurt,3,orange,
+paris,frankfurt,3,white,
+paris,bruxelles,2,yellow,
+paris,bruxelles,2,red,
+madrid,pamplona,3,white,tunnel
+madrid,pamplona,3,black,tunnel
+madrid,barcelona,2,yellow,
+madrid,lisboa,3,pink,
+madrid,cadiz,3,orange,
+lisboa,cadiz,2,blue,
+pamplona,barcelona,2,grey,tunnel
+pamplona,marseille,4,red,
+barcelona,marseille,4,grey,
+zurich,marseille,2,pink,tunnel
+zurich,venezia,2,green,tunnel
+zurich,munchen,2,yellow,tunnel
+roma,marseille,4,grey,tunnel
+roma,venezia,2,black,
+roma,brindisi,2,white,
+roma,palermo,4,grey,1 loco
+munchen,venezia,2,blue,tunnel
+munchen,frankfurt,2,pink,
+bruxelles,frankfurt,2,blue,
+amsterdam,frankfurt,2,white,
+essen,frankfurt,2,green,
+berlin,frankfurt,3,red,
+berlin,frankfurt,3,black,
+berlin,essen,2,blue,
+kobenhavn,essen,3,grey,1 loco
+kobenhavn,essen,3,grey,1 loco
+kobenhavn,stockholm,3,white,
+kobenhavn,stockholm,3,yellow,
+petrograd,stockholm,8,grey,tunnel
+petrograd,moskva,4,white,
+petrograd,riga,4,grey,
+petrograd,wilno,4,blue,
+riga,wilno,4,green,
+warszawa,wilno,3,red,
+kyiv,wilno,2,grey,
+smolensk,wilno,3,yellow,
+kyiv,smolensk,3,red,
+kyiv,kharkov,4,grey,
+kyiv,bucuresti,4,grey,
+kyiv,budapest,6,grey,tunnel
+kyiv,warszawa,4,grey,
+berlin,warszawa,4,pink,
+berlin,warszawa,4,yellow,
+wien,warszawa,4,blue,
+danzic,warszawa,2,grey,
+wien,berlin,3,green,
+danzic,berlin,4,grey,
+danzic,riga,3,black,
+moskva,smolensk,2,orange,
+moskva,kharkov,4,grey,
+wien,munchen,3,orange,
+wien,budapest,1,white,
+wien,budapest,1,red,
+zagrab,budapest,2,orange,
+zagrab,wien,2,grey,
+zagrab,venezia,2,grey,
+zagrab,sarajevo,3,red,
+bucuresti,budapest,4,grey,tunnel
+bucuresti,sevastopol,4,white,
+bucuresti,constantinople,3,yellow,
+bucuresti,sofia,2,grey,tunnel
+sarajevo,budapest,3,pink,
+sarajevo,sofia,2,grey,tunnel
+sarajevo,athina,4,green,
+sofia,athina,3,pink,
+brindisi,athina,4,grey,1 loco
+sofia,constantinople,3,blue,
+brindisi,palermo,3,grey,1 loco
+smyrna,constantinople,2,grey,tunnel
+smyrna,palermo,6,grey,2 loco
+smyrna,angora,3,orange,tunnel
+smyrna,athina,2,grey,1 loco
+sevastopol,sochi,2,grey,1 loco
+sevastopol,rostov,4,grey,
+sevastopol,erzurum,4,grey,2 loco
+sevastopol,constantinople,4,grey,2 loco
+angora,constantinople,2,grey,tunnel
+angora,erzurum,3,black,
+sochi,erzurum,3,red,tunnel
+sochi,rostov,2,grey,
+kharkov,rostov,2,green,
+brest,pamplona,4,pink,
