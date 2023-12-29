@@ -1,0 +1,6 @@
+numpy
+pandas
+gym
+tensorflow
+random
+collections
